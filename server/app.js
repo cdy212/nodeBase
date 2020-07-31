@@ -1,41 +1,119 @@
-var createError = require('http-errors');
-var express = require('express');
-var path = require('path');
-var cookieParser = require('cookie-parser');
-var logger = require('morgan');
+const createError = require('http-errors');
+const express = require('express');
+const path = require('path');
+const cookieParser = require('cookie-parser');
+const morgan = require('morgan');
 
-var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
+//router
+const indexRouter = require('./routes/index');
+const usersRouter = require('./routes/users');
 
-var app = express();
+const { logger } = require('./utils/logConfig');
+const { isTrustedError, handleError } = require('./error/ErrorHandler');
+const { APIError, HttpStatusCode } = require('./error/BaseError');
 
-// view engine setup
-app.set('views', path.join(__dirname, 'views'));
-app.set('view engine', 'ejs');
 
-app.use(logger('dev'));
-app.use(express.json());
-app.use(express.urlencoded({ extended: false }));
-app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
+// https://medium.com/sjk5766/jwt-json-web-token-%EC%86%8C%EA%B0%9C-49e211c65b45
+// https://helloinyong.tistory.com/111
+const jwt = require('jsonwebtoken'); // module import
+const userInfo = { id: 1, username: 'inyong', role: ['admin', 'user'] };
+const secretKey = 'SeCrEtKeYfOrHaShInG';
 
-app.use('/', indexRouter);
-app.use('/users', usersRouter);
+const options = { expiresIn: '1m', issuer: 'velopert.com-발급자', subject: 'userInfo' };
 
-// catch 404 and forward to error handler
-app.use(function(req, res, next) {
-  next(createError(404));
-});
+const fetch = require('node-fetch');
 
-// error handler
-app.use(function(err, req, res, next) {
-  // set locals, only providing error in development
-  res.locals.message = err.message;
-  res.locals.error = req.app.get('env') === 'development' ? err : {};
+const token = jwt.sign(userInfo, secretKey, options);
 
-  // render the error page
-  res.status(err.status || 500);
-  res.render('error');
-});
+  
 
-module.exports = app;
+class App {
+	constructor() {
+    	logger.info('App start..');
+
+		this.app = express();
+		// module engine setup
+		this.configs();
+
+		//ejs view
+		this.routers();
+
+		//api : TODO
+		this.globalException();
+
+
+		this.PingTest();
+	}
+
+	PingTest() {
+		fetch('http://localhost:3000/users', {
+			method: 'GET',
+			headers: {
+				'content-type': 'text/json',
+				'x-access-token': token
+			}
+		})
+		.then(res => {
+			console.log(11)
+		});
+	}
+
+	// catch 404 and forward to error handler
+	globalException() {
+		this.app.use(function (req, res, next) {
+			// throw new APIError('Not found',HttpStatusCode.NOT_FOUND)
+			// next(createError(404));
+			res.json({'Message':'Not Found', 'code':'404'});
+		});
+
+		
+		
+
+		// 모든 에러 후 처리
+		this.app.use(async (err, req, res, next) => {
+			if (!isTrustedError(err)) {
+				next(err);
+			}
+			await handleError(err);
+		});
+
+		
+		// get the unhandled rejection and throw it to another fallback handler we already have.
+		process.on('unhandledRejection', (reason, promise) => {
+			console.log(reason);
+			throw reason;
+		});
+
+	}
+
+
+	routers() {
+		this.app.use('/', indexRouter);
+		this.app.use('/users', usersRouter);
+	}
+
+	configs() {
+		this.app.set('views', path.join(__dirname, 'views'));
+		this.app.set('view engine', 'ejs');
+
+		
+		
+		const morganFormat = process.env.NODE_ENV !== 'production' ? 'dev' : 'combined'; // NOTE: morgan 출력 형태
+
+		this.app.use(morgan(morganFormat, {
+			stream: {
+				write: (message) => { // NOTE: morgan에서 쓰기 위해 이 형태로 fix 되야함.
+					//   console.log(message);
+					logger.info(`${message}`);
+				}
+			} 
+		})); // NOTE: http request 로그 남기기
+
+		this.app.use(express.json());
+		this.app.use(express.urlencoded({extended: false}));
+		this.app.use(cookieParser());
+		this.app.use(express.static(path.join(__dirname, 'public')));
+	}
+}
+
+module.exports = new App().app;
