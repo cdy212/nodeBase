@@ -1,0 +1,1381 @@
+2020-08-11T13:21:44: 2020-08-11 13:21:44 [32minfo[39m: App start..
+2020-08-11T13:21:44: Listening on port 5000
+2020-08-11T13:22:09: 2020-08-11 13:22:09 [32minfo[39m: App start..
+2020-08-11T13:22:09: Listening on port 8090
+2020-08-11T13:22:10: 2020-08-11 13:22:09 [32minfo[39m: App start..
+2020-08-11T13:22:10: 2020-08-11 13:22:10 [32minfo[39m: App start..
+2020-08-11T13:22:11: Listening on port 8080
+2020-08-11T13:22:12: 2020-08-11 13:22:12 [32minfo[39m: App start..
+2020-08-11T13:22:13: Listening on port 8080
+2020-08-11T13:22:17: 2020-08-11 13:22:17 [32minfo[39m: App start..
+2020-08-11T13:22:17: Listening on port 8090
+2020-08-11T13:22:17: 2020-08-11 13:22:17 [32minfo[39m: App start..
+2020-08-11T13:22:17: 2020-08-11 13:22:17 [32minfo[39m: App start..
+2020-08-11T13:22:19: Listening on port 8080
+2020-08-11T13:22:20: 2020-08-11 13:22:20 [32minfo[39m: App start..
+2020-08-11T13:22:21: Listening on port 8080
+2020-08-11T13:22:25: 2020-08-11 13:22:25 [32minfo[39m: App start..
+2020-08-11T13:22:25: Listening on port 8090
+2020-08-11T13:22:25: 2020-08-11 13:22:25 [32minfo[39m: App start..
+2020-08-11T13:22:25: 2020-08-11 13:22:25 [32minfo[39m: App start..
+2020-08-11T13:22:27: Listening on port 8080
+2020-08-11T13:22:28: 2020-08-11 13:22:28 [32minfo[39m: App start..
+2020-08-11T13:22:30: Listening on port 8080
+2020-08-11T13:22:33: 2020-08-11 13:22:33 [32minfo[39m: App start..
+2020-08-11T13:22:33: Listening on port 8090
+2020-08-11T13:22:33: 2020-08-11 13:22:33 [32minfo[39m: App start..
+2020-08-11T13:22:33: 2020-08-11 13:22:33 [32minfo[39m: App start..
+2020-08-11T13:22:36: Listening on port 8080
+2020-08-11T13:22:37: 2020-08-11 13:22:37 [32minfo[39m: App start..
+2020-08-11T13:22:39: Listening on port 8080
+2020-08-11T13:22:42: 2020-08-11 13:22:42 [32minfo[39m: App start..
+2020-08-11T13:22:42: Listening on port 8090
+2020-08-11T13:22:42: 2020-08-11 13:22:42 [32minfo[39m: App start..
+2020-08-11T13:22:42: 2020-08-11 13:22:42 [32minfo[39m: App start..
+2020-08-11T13:22:44: Listening on port 8080
+2020-08-11T13:22:45: 2020-08-11 13:22:45 [32minfo[39m: App start..
+2020-08-11T13:22:47: Listening on port 8080
+2020-08-11T13:22:49: 2020-08-11 13:22:49 [32minfo[39m: App start..
+2020-08-11T13:22:49: Listening on port 8090
+2020-08-11T13:22:49: 2020-08-11 13:22:49 [32minfo[39m: App start..
+2020-08-11T13:22:49: 2020-08-11 13:22:49 [32minfo[39m: App start..
+2020-08-11T13:22:52: Listening on port 8080
+2020-08-11T13:22:53: 2020-08-11 13:22:53 [32minfo[39m: App start..
+2020-08-11T13:22:55: Listening on port 8080
+2020-08-11T13:22:57: 2020-08-11 13:22:57 [32minfo[39m: App start..
+2020-08-11T13:22:57: Listening on port 8090
+2020-08-11T13:22:57: 2020-08-11 13:22:57 [32minfo[39m: App start..
+2020-08-11T13:22:58: 2020-08-11 13:22:58 [32minfo[39m: App start..
+2020-08-11T13:23:00: Listening on port 8080
+2020-08-11T13:23:01: 2020-08-11 13:23:01 [32minfo[39m: App start..
+2020-08-11T13:23:04: Listening on port 8080
+2020-08-11T13:23:06: 2020-08-11 13:23:06 [32minfo[39m: App start..
+2020-08-11T13:23:06: Listening on port 8090
+2020-08-11T13:23:07: 2020-08-11 13:23:07 [32minfo[39m: App start..
+2020-08-11T13:23:07: 2020-08-11 13:23:07 [32minfo[39m: App start..
+2020-08-11T13:23:09: Listening on port 8080
+2020-08-11T13:23:10: 2020-08-11 13:23:10 [32minfo[39m: App start..
+2020-08-11T13:23:12: Listening on port 8080
+2020-08-11T13:23:14: 2020-08-11 13:23:14 [32minfo[39m: App start..
+2020-08-11T13:23:14: Listening on port 8090
+2020-08-11T13:23:14: 2020-08-11 13:23:14 [32minfo[39m: App start..
+2020-08-11T13:23:14: 2020-08-11 13:23:14 [32minfo[39m: App start..
+2020-08-11T13:23:17: Listening on port 8080
+2020-08-11T13:23:18: 2020-08-11 13:23:18 [32minfo[39m: App start..
+2020-08-11T13:23:20: Listening on port 8080
+2020-08-11T13:23:22: 2020-08-11 13:23:22 [32minfo[39m: App start..
+2020-08-11T13:23:23: Listening on port 8090
+2020-08-11T13:23:23: 2020-08-11 13:23:23 [32minfo[39m: App start..
+2020-08-11T13:23:23: 2020-08-11 13:23:23 [32minfo[39m: App start..
+2020-08-11T13:23:25: Listening on port 8080
+2020-08-11T13:23:29: 2020-08-11 13:23:29 [32minfo[39m: App start..
+2020-08-11T13:23:29: Listening on port 8090
+2020-08-11T13:23:29: 2020-08-11 13:23:29 [32minfo[39m: App start..
+2020-08-11T13:23:29: Listening on port 8080
+2020-08-17T15:57:48: 2020-08-17 15:57:48 [32minfo[39m: App start..
+2020-08-17T15:57:48: Listening on port 5000
+2020-08-17T15:58:26: 2020-08-17 15:58:26 [32minfo[39m: App start..
+2020-08-17T15:58:26: 2020-08-17 15:58:26 [32minfo[39m: App start..
+2020-08-17T15:58:26: Listening on port 8080
+2020-08-17T15:58:26: Listening on port 8090
+2020-08-17T15:58:27: 2020-08-17 15:58:27 [32minfo[39m: App start..
+2020-08-17T15:58:27: 2020-08-17 15:58:27 [32minfo[39m: App start..
+2020-08-17T15:58:31: Listening on port 8090
+2020-08-17T15:58:33: 2020-08-17 15:58:33 [32minfo[39m: App start..
+2020-08-17T15:58:33: 2020-08-17 15:58:33 [32minfo[39m: App start..
+2020-08-17T15:58:33: 2020-08-17 15:58:33 [32minfo[39m: App start..
+2020-08-17T15:59:39: 2020-08-17 15:59:39 [32minfo[39m: App start..
+2020-08-17T15:59:39: Listening on port 8080
+2020-08-17T15:59:39: 2020-08-17 15:59:39 [32minfo[39m: App start..
+2020-08-17T15:59:42: Listening on port 8080
+2020-08-17T15:59:43: 2020-08-17 15:59:43 [32minfo[39m: App start..
+2020-08-17T15:59:45: Listening on port 8080
+2020-08-17T15:59:45: 2020-08-17 15:59:45 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:45 +0000] "GET / HTTP/1.1" 200 207 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:45: 2020-08-17 15:59:45 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:45 +0000] "GET /stylesheets/style.css HTTP/1.1" 200 111 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:46: 2020-08-17 15:59:46 [32minfo[39m: App start..
+2020-08-17T15:59:46: Listening on port 8080
+2020-08-17T15:59:46: 2020-08-17 15:59:46 [32minfo[39m: App start..
+2020-08-17T15:59:47: 2020-08-17 15:59:47 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:47 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:47: 2020-08-17 15:59:47 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:47 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:48: 2020-08-17 15:59:48 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:48 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:48: 2020-08-17 15:59:48 [32minfo[39m: ::1 - - [17/Aug/2020:06:59:48 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T15:59:50: 2020-08-17 15:59:50 [32minfo[39m: App start..
+2020-08-17T15:59:51: Listening on port 8080
+2020-08-17T15:59:52: 2020-08-17 15:59:52 [32minfo[39m: App start..
+2020-08-17T15:59:52: Listening on port 8080
+2020-08-17T15:59:56: 2020-08-17 15:59:56 [32minfo[39m: App start..
+2020-08-17T15:59:56: Listening on port 8080
+2020-08-17T15:59:56: 2020-08-17 15:59:56 [32minfo[39m: App start..
+2020-08-17T15:59:58: Listening on port 8080
+2020-08-17T15:59:59: 2020-08-17 15:59:59 [32minfo[39m: App start..
+2020-08-17T15:59:59: Listening on port 8080
+2020-08-17T16:00:00: 2020-08-17 16:00:00 [32minfo[39m: App start..
+2020-08-17T16:00:00: Listening on port 8080
+2020-08-17T16:00:01: 2020-08-17 16:00:01 [32minfo[39m: App start..
+2020-08-17T16:00:03: 2020-08-17 16:00:03 [32minfo[39m: App start..
+2020-08-17T16:00:05: Listening on port 8080
+2020-08-17T16:00:08: 2020-08-17 16:00:08 [32minfo[39m: App start..
+2020-08-17T16:00:08: 2020-08-17 16:00:08 [32minfo[39m: App start..
+2020-08-17T16:00:08: Listening on port 8080
+2020-08-17T16:00:08: Listening on port 8080
+2020-08-17T16:00:32: 2020-08-17 16:00:32 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:32 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:32: 2020-08-17 16:00:32 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:32 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:33: 2020-08-17 16:00:33 [32minfo[39m: App start..
+2020-08-17T16:00:33: Listening on port 8080
+2020-08-17T16:00:36: 2020-08-17 16:00:36 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:36 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:36: 2020-08-17 16:00:36 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:36 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:36: 2020-08-17 16:00:36 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:36 +0000] "GET /favicon.ico HTTP/1.1" 404 9 "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:37: 2020-08-17 16:00:37 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:37 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:37: 2020-08-17 16:00:37 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:37 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:38: 2020-08-17 16:00:38 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:38 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:38: 2020-08-17 16:00:38 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:38 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:44: 2020-08-17 16:00:44 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:44 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:44: 2020-08-17 16:00:44 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:44 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:46: 2020-08-17 16:00:46 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:46: 2020-08-17 16:00:46 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:46 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:46: 2020-08-17 16:00:46 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:46 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:00:46: 2020-08-17 16:00:46 [32minfo[39m: ::1 - - [17/Aug/2020:07:00:46 +0000] "GET /stylesheets/style.css HTTP/1.1" 304 - "http://localhost:8080/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.125 Safari/537.36"
+
+2020-08-17T16:29:58: 2020-08-17 16:29:58 [32minfo[39m: App start..
+2020-08-17T16:29:58: Listening on port 8080
+2020-08-17T16:29:59: 2020-08-17 16:29:59 [32minfo[39m: App start..
+2020-08-17T16:30:02: 2020-08-17 16:30:02 [32minfo[39m: App start..
+2020-08-17T16:30:02: 2020-08-17 16:30:02 [32minfo[39m: App start..
+2020-08-17T16:30:03: Listening on port 8080
+2020-08-17T16:30:03: Listening on port 8080
+2020-08-17T16:30:06: 2020-08-17 16:30:06 [32minfo[39m: App start..
+2020-08-17T16:30:06: Listening on port 8080
+2020-08-17T16:30:06: 2020-08-17 16:30:06 [32minfo[39m: App start..
+2020-08-17T16:30:06: Listening on port 8080
+2020-08-17T16:30:09: 2020-08-17 16:30:09 [32minfo[39m: App start..
+2020-08-17T16:30:09: Listening on port 8080
+2020-08-17T16:30:10: 2020-08-17 16:30:10 [32minfo[39m: App start..
+2020-08-17T16:30:13: Listening on port 8080
+2020-08-17T16:30:14: 2020-08-17 16:30:14 [32minfo[39m: App start..
+2020-08-17T16:30:14: Listening on port 8080
+2020-08-17T16:30:14: 2020-08-17 16:30:14 [32minfo[39m: App start..
+2020-08-17T16:30:17: Listening on port 8080
+2020-08-17T16:30:18: 2020-08-17 16:30:18 [32minfo[39m: App start..
+2020-08-17T16:30:18: Listening on port 8080
+2020-08-17T16:30:18: 2020-08-17 16:30:18 [32minfo[39m: App start..
+2020-08-17T16:30:21: Listening on port 8080
+2020-08-17T16:30:22: 2020-08-17 16:30:22 [32minfo[39m: App start..
+2020-08-17T16:30:22: Listening on port 8080
+2020-08-17T16:30:22: 2020-08-17 16:30:22 [32minfo[39m: App start..
+2020-08-17T16:30:25: Listening on port 8080
+2020-08-17T16:30:26: 2020-08-17 16:30:26 [32minfo[39m: App start..
+2020-08-17T16:30:26: Listening on port 8080
+2020-08-17T16:30:26: 2020-08-17 16:30:26 [32minfo[39m: App start..
+2020-08-17T16:30:29: Listening on port 8080
+2020-08-17T16:30:30: 2020-08-17 16:30:30 [32minfo[39m: App start..
+2020-08-17T16:30:30: Listening on port 8080
+2020-08-17T16:30:30: 2020-08-17 16:30:30 [32minfo[39m: App start..
+2020-08-17T16:30:33: Listening on port 8080
+2020-08-17T16:30:34: 2020-08-17 16:30:34 [32minfo[39m: App start..
+2020-08-17T16:30:34: Listening on port 8080
+2020-08-17T16:30:35: 2020-08-17 16:30:35 [32minfo[39m: App start..
+2020-08-17T16:30:38: Listening on port 8080
+2020-08-17T16:30:38: 2020-08-17 16:30:38 [32minfo[39m: App start..
+2020-08-17T16:30:38: Listening on port 8080
+2020-08-17T16:30:39: 2020-08-17 16:30:39 [32minfo[39m: App start..
+2020-08-17T16:30:42: Listening on port 8080
+2020-08-17T16:30:43: 2020-08-17 16:30:43 [32minfo[39m: App start..
+2020-08-17T16:30:43: Listening on port 8080
+2020-08-17T16:30:43: 2020-08-17 16:30:43 [32minfo[39m: App start..
+2020-08-17T16:30:46: Listening on port 8080
+2020-08-17T16:30:47: 2020-08-17 16:30:47 [32minfo[39m: App start..
+2020-08-17T16:30:47: Listening on port 8080
+2020-08-17T16:30:47: 2020-08-17 16:30:47 [32minfo[39m: App start..
+2020-08-17T16:30:50: Listening on port 8080
+2020-08-17T16:30:51: 2020-08-17 16:30:51 [32minfo[39m: App start..
+2020-08-17T16:30:51: Listening on port 8080
+2020-08-17T16:30:51: 2020-08-17 16:30:51 [32minfo[39m: App start..
+2020-08-17T16:30:54: Listening on port 8080
+2020-08-17T16:30:55: 2020-08-17 16:30:55 [32minfo[39m: App start..
+2020-08-17T16:30:55: Listening on port 8080
+2020-08-17T16:30:55: 2020-08-17 16:30:55 [32minfo[39m: App start..
+2020-08-17T16:30:58: Listening on port 8080
+2020-08-17T16:30:59: 2020-08-17 16:30:59 [32minfo[39m: App start..
+2020-08-17T16:30:59: Listening on port 8080
+2020-08-17T16:30:59: 2020-08-17 16:30:59 [32minfo[39m: App start..
+2020-08-17T16:31:02: Listening on port 8080
+2020-08-17T16:31:03: 2020-08-17 16:31:03 [32minfo[39m: App start..
+2020-08-17T16:31:03: Listening on port 8080
+2020-08-17T16:31:04: 2020-08-17 16:31:04 [32minfo[39m: App start..
+2020-08-17T16:31:07: Listening on port 8080
+2020-08-17T16:31:08: 2020-08-17 16:31:08 [32minfo[39m: App start..
+2020-08-17T16:31:08: Listening on port 8080
+2020-08-17T16:31:08: 2020-08-17 16:31:08 [32minfo[39m: App start..
+2020-08-17T16:31:11: Listening on port 8080
+2020-08-17T16:31:12: 2020-08-17 16:31:12 [32minfo[39m: App start..
+2020-08-17T16:31:12: Listening on port 8080
+2020-08-17T16:31:13: 2020-08-17 16:31:13 [32minfo[39m: App start..
+2020-08-17T16:31:15: Listening on port 8080
+2020-08-17T16:31:16: 2020-08-17 16:31:16 [32minfo[39m: App start..
+2020-08-17T16:31:16: Listening on port 8080
+2020-08-17T16:31:17: 2020-08-17 16:31:17 [32minfo[39m: App start..
+2020-08-17T16:31:19: Listening on port 8080
+2020-08-17T16:31:21: 2020-08-17 16:31:21 [32minfo[39m: App start..
+2020-08-17T16:31:21: Listening on port 8080
+2020-08-17T16:31:22: 2020-08-17 16:31:22 [32minfo[39m: App start..
+2020-08-17T16:31:24: Listening on port 8080
+2020-08-17T16:31:26: 2020-08-17 16:31:26 [32minfo[39m: App start..
+2020-08-17T16:31:26: Listening on port 8080
+2020-08-17T16:31:27: 2020-08-17 16:31:27 [32minfo[39m: App start..
+2020-08-17T16:31:29: Listening on port 8080
+2020-08-17T16:31:30: 2020-08-17 16:31:30 [32minfo[39m: App start..
+2020-08-17T16:31:30: Listening on port 8080
+2020-08-17T16:31:31: 2020-08-17 16:31:31 [32minfo[39m: App start..
+2020-08-17T16:31:34: Listening on port 8080
+2020-08-17T16:31:35: 2020-08-17 16:31:35 [32minfo[39m: App start..
+2020-08-17T16:31:35: Listening on port 8080
+2020-08-17T16:31:35: 2020-08-17 16:31:35 [32minfo[39m: App start..
+2020-08-17T16:31:38: Listening on port 8080
+2020-08-17T16:31:39: 2020-08-17 16:31:39 [32minfo[39m: App start..
+2020-08-17T16:31:39: Listening on port 8080
+2020-08-17T16:31:39: 2020-08-17 16:31:39 [32minfo[39m: App start..
+2020-08-17T16:31:42: Listening on port 8080
+2020-08-17T16:31:43: 2020-08-17 16:31:43 [32minfo[39m: App start..
+2020-08-17T16:31:43: Listening on port 8080
+2020-08-17T16:31:44: 2020-08-17 16:31:44 [32minfo[39m: App start..
+2020-08-17T16:31:47: Listening on port 8080
+2020-08-17T16:31:47: 2020-08-17 16:31:47 [32minfo[39m: App start..
+2020-08-17T16:31:47: Listening on port 8080
+2020-08-17T16:31:48: 2020-08-17 16:31:48 [32minfo[39m: App start..
+2020-08-17T16:31:51: Listening on port 8080
+2020-08-17T16:31:52: 2020-08-17 16:31:52 [32minfo[39m: App start..
+2020-08-17T16:31:52: Listening on port 8080
+2020-08-17T16:31:52: 2020-08-17 16:31:52 [32minfo[39m: App start..
+2020-08-17T16:31:55: Listening on port 8080
+2020-08-17T16:31:56: 2020-08-17 16:31:56 [32minfo[39m: App start..
+2020-08-17T16:31:56: Listening on port 8080
+2020-08-17T16:31:56: 2020-08-17 16:31:56 [32minfo[39m: App start..
+2020-08-17T16:31:59: Listening on port 8080
+2020-08-17T16:32:00: 2020-08-17 16:32:00 [32minfo[39m: App start..
+2020-08-17T16:32:00: Listening on port 8080
+2020-08-17T16:32:00: 2020-08-17 16:32:00 [32minfo[39m: App start..
+2020-08-17T16:32:02: Listening on port 8080
+2020-08-17T16:32:03: 2020-08-17 16:32:03 [32minfo[39m: App start..
+2020-08-17T16:32:03: Listening on port 8080
+2020-08-17T16:32:03: 2020-08-17 16:32:03 [32minfo[39m: App start..
+2020-08-17T16:32:06: Listening on port 8080
+2020-08-17T16:32:07: 2020-08-17 16:32:07 [32minfo[39m: App start..
+2020-08-17T16:32:07: Listening on port 8080
+2020-08-17T16:32:08: 2020-08-17 16:32:08 [32minfo[39m: App start..
+2020-08-17T16:32:11: Listening on port 8080
+2020-08-17T16:32:11: 2020-08-17 16:32:11 [32minfo[39m: App start..
+2020-08-17T16:32:11: Listening on port 8080
+2020-08-17T16:32:12: 2020-08-17 16:32:12 [32minfo[39m: App start..
+2020-08-17T16:32:15: Listening on port 8080
+2020-08-17T16:32:16: 2020-08-17 16:32:16 [32minfo[39m: App start..
+2020-08-17T16:32:16: Listening on port 8080
+2020-08-17T16:32:16: 2020-08-17 16:32:16 [32minfo[39m: App start..
+2020-08-17T16:32:19: Listening on port 8080
+2020-08-17T16:32:20: 2020-08-17 16:32:20 [32minfo[39m: App start..
+2020-08-17T16:32:20: Listening on port 8080
+2020-08-17T16:32:20: 2020-08-17 16:32:20 [32minfo[39m: App start..
+2020-08-17T16:32:23: Listening on port 8080
+2020-08-17T16:32:24: 2020-08-17 16:32:24 [32minfo[39m: App start..
+2020-08-17T16:32:24: Listening on port 8080
+2020-08-17T16:32:24: 2020-08-17 16:32:24 [32minfo[39m: App start..
+2020-08-17T16:32:27: Listening on port 8080
+2020-08-17T16:32:27: 2020-08-17 16:32:27 [32minfo[39m: App start..
+2020-08-17T16:32:27: Listening on port 8080
+2020-08-17T16:32:28: 2020-08-17 16:32:28 [32minfo[39m: App start..
+2020-08-17T16:32:31: Listening on port 8080
+2020-08-17T16:32:32: 2020-08-17 16:32:32 [32minfo[39m: App start..
+2020-08-17T16:32:32: Listening on port 8080
+2020-08-17T16:32:32: 2020-08-17 16:32:32 [32minfo[39m: App start..
+2020-08-17T16:32:35: Listening on port 8080
+2020-08-17T16:32:36: 2020-08-17 16:32:36 [32minfo[39m: App start..
+2020-08-17T16:32:36: Listening on port 8080
+2020-08-17T16:32:36: 2020-08-17 16:32:36 [32minfo[39m: App start..
+2020-08-17T16:32:39: Listening on port 8080
+2020-08-17T16:32:40: 2020-08-17 16:32:40 [32minfo[39m: App start..
+2020-08-17T16:32:40: Listening on port 8080
+2020-08-17T16:32:40: 2020-08-17 16:32:40 [32minfo[39m: App start..
+2020-08-17T16:32:43: Listening on port 8080
+2020-08-17T16:32:44: 2020-08-17 16:32:44 [32minfo[39m: App start..
+2020-08-17T16:32:44: Listening on port 8080
+2020-08-17T16:32:44: 2020-08-17 16:32:44 [32minfo[39m: App start..
+2020-08-17T16:32:47: Listening on port 8080
+2020-08-17T16:32:48: 2020-08-17 16:32:48 [32minfo[39m: App start..
+2020-08-17T16:32:48: Listening on port 8080
+2020-08-17T16:32:48: 2020-08-17 16:32:48 [32minfo[39m: App start..
+2020-08-17T16:32:51: Listening on port 8080
+2020-08-17T16:32:52: 2020-08-17 16:32:52 [32minfo[39m: App start..
+2020-08-17T16:32:52: Listening on port 8080
+2020-08-17T16:32:52: 2020-08-17 16:32:52 [32minfo[39m: App start..
+2020-08-17T16:32:54: Listening on port 8080
+2020-08-17T16:32:55: 2020-08-17 16:32:55 [32minfo[39m: App start..
+2020-08-17T16:32:55: Listening on port 8080
+2020-08-17T16:32:56: 2020-08-17 16:32:56 [32minfo[39m: App start..
+2020-08-17T16:32:57: Listening on port 8080
+2020-08-17T16:32:58: 2020-08-17 16:32:58 [32minfo[39m: App start..
+2020-08-17T16:32:58: Listening on port 8080
+2020-08-17T16:32:59: 2020-08-17 16:32:59 [32minfo[39m: App start..
+2020-08-17T16:33:02: Listening on port 8080
+2020-08-17T16:33:02: 2020-08-17 16:33:02 [32minfo[39m: App start..
+2020-08-17T16:33:02: Listening on port 8080
+2020-08-17T16:33:03: 2020-08-17 16:33:03 [32minfo[39m: App start..
+2020-08-17T16:33:05: Listening on port 8080
+2020-08-17T16:33:06: 2020-08-17 16:33:06 [32minfo[39m: App start..
+2020-08-17T16:33:06: Listening on port 8080
+2020-08-17T16:33:06: 2020-08-17 16:33:06 [32minfo[39m: App start..
+2020-08-17T16:33:09: Listening on port 8080
+2020-08-17T16:33:10: 2020-08-17 16:33:10 [32minfo[39m: App start..
+2020-08-17T16:33:10: Listening on port 8080
+2020-08-17T16:33:10: 2020-08-17 16:33:10 [32minfo[39m: App start..
+2020-08-17T16:33:13: Listening on port 8080
+2020-08-17T16:33:14: 2020-08-17 16:33:14 [32minfo[39m: App start..
+2020-08-17T16:33:14: Listening on port 8080
+2020-08-17T16:33:14: 2020-08-17 16:33:14 [32minfo[39m: App start..
+2020-08-17T16:33:17: Listening on port 8080
+2020-08-17T16:33:18: 2020-08-17 16:33:18 [32minfo[39m: App start..
+2020-08-17T16:33:18: Listening on port 8080
+2020-08-17T16:33:18: 2020-08-17 16:33:18 [32minfo[39m: App start..
+2020-08-17T16:33:21: Listening on port 8080
+2020-08-17T16:33:22: 2020-08-17 16:33:22 [32minfo[39m: App start..
+2020-08-17T16:33:22: Listening on port 8080
+2020-08-17T16:33:22: 2020-08-17 16:33:22 [32minfo[39m: App start..
+2020-08-17T16:33:25: Listening on port 8080
+2020-08-17T16:33:26: 2020-08-17 16:33:26 [32minfo[39m: App start..
+2020-08-17T16:33:26: Listening on port 8080
+2020-08-17T16:33:26: 2020-08-17 16:33:26 [32minfo[39m: App start..
+2020-08-17T16:33:29: Listening on port 8080
+2020-08-17T16:33:30: 2020-08-17 16:33:30 [32minfo[39m: App start..
+2020-08-17T16:33:30: Listening on port 8080
+2020-08-17T16:33:31: 2020-08-17 16:33:31 [32minfo[39m: App start..
+2020-08-17T16:33:34: Listening on port 8080
+2020-08-17T16:33:35: 2020-08-17 16:33:35 [32minfo[39m: App start..
+2020-08-17T16:33:35: Listening on port 8080
+2020-08-17T16:33:35: 2020-08-17 16:33:35 [32minfo[39m: App start..
+2020-08-17T16:33:38: Listening on port 8080
+2020-08-17T16:33:39: 2020-08-17 16:33:39 [32minfo[39m: App start..
+2020-08-17T16:33:39: Listening on port 8080
+2020-08-17T16:33:40: 2020-08-17 16:33:40 [32minfo[39m: App start..
+2020-08-17T16:33:43: Listening on port 8080
+2020-08-17T16:33:44: 2020-08-17 16:33:44 [32minfo[39m: App start..
+2020-08-17T16:33:44: Listening on port 8080
+2020-08-17T16:33:44: 2020-08-17 16:33:44 [32minfo[39m: App start..
+2020-08-17T16:33:47: Listening on port 8080
+2020-08-17T16:33:48: 2020-08-17 16:33:48 [32minfo[39m: App start..
+2020-08-17T16:33:48: Listening on port 8080
+2020-08-17T16:33:49: 2020-08-17 16:33:49 [32minfo[39m: App start..
+2020-08-17T16:33:52: Listening on port 8080
+2020-08-17T16:33:53: 2020-08-17 16:33:53 [32minfo[39m: App start..
+2020-08-17T16:33:53: Listening on port 8080
+2020-08-17T16:33:53: 2020-08-17 16:33:53 [32minfo[39m: App start..
+2020-08-17T16:33:56: Listening on port 8080
+2020-08-17T16:33:57: 2020-08-17 16:33:57 [32minfo[39m: App start..
+2020-08-17T16:33:57: Listening on port 8080
+2020-08-17T16:33:57: 2020-08-17 16:33:57 [32minfo[39m: App start..
+2020-08-17T16:34:00: Listening on port 8080
+2020-08-17T16:34:01: 2020-08-17 16:34:01 [32minfo[39m: App start..
+2020-08-17T16:34:01: Listening on port 8080
+2020-08-17T16:34:01: 2020-08-17 16:34:01 [32minfo[39m: App start..
+2020-08-17T16:34:03: Listening on port 8080
+2020-08-17T16:34:04: 2020-08-17 16:34:04 [32minfo[39m: App start..
+2020-08-17T16:34:04: Listening on port 8080
+2020-08-17T16:34:04: 2020-08-17 16:34:04 [32minfo[39m: App start..
+2020-08-17T16:34:07: Listening on port 8080
+2020-08-17T16:34:08: 2020-08-17 16:34:08 [32minfo[39m: App start..
+2020-08-17T16:34:08: Listening on port 8080
+2020-08-17T16:34:08: 2020-08-17 16:34:08 [32minfo[39m: App start..
+2020-08-17T16:34:11: Listening on port 8080
+2020-08-17T16:34:12: 2020-08-17 16:34:12 [32minfo[39m: App start..
+2020-08-17T16:34:12: Listening on port 8080
+2020-08-17T16:34:12: 2020-08-17 16:34:12 [32minfo[39m: App start..
+2020-08-17T16:34:15: Listening on port 8080
+2020-08-17T16:34:16: 2020-08-17 16:34:16 [32minfo[39m: App start..
+2020-08-17T16:34:16: Listening on port 8080
+2020-08-17T16:34:16: 2020-08-17 16:34:16 [32minfo[39m: App start..
+2020-08-17T16:34:19: Listening on port 8080
+2020-08-17T16:34:20: 2020-08-17 16:34:20 [32minfo[39m: App start..
+2020-08-17T16:34:20: Listening on port 8080
+2020-08-17T16:34:21: 2020-08-17 16:34:21 [32minfo[39m: App start..
+2020-08-17T16:34:23: Listening on port 8080
+2020-08-17T16:34:24: 2020-08-17 16:34:24 [32minfo[39m: App start..
+2020-08-17T16:34:24: Listening on port 8080
+2020-08-17T16:34:25: 2020-08-17 16:34:25 [32minfo[39m: App start..
+2020-08-17T16:34:28: Listening on port 8080
+2020-08-17T16:34:29: 2020-08-17 16:34:29 [32minfo[39m: App start..
+2020-08-17T16:34:29: Listening on port 8080
+2020-08-17T16:34:29: 2020-08-17 16:34:29 [32minfo[39m: App start..
+2020-08-17T16:34:32: Listening on port 8080
+2020-08-17T16:34:33: 2020-08-17 16:34:33 [32minfo[39m: App start..
+2020-08-17T16:34:33: Listening on port 8080
+2020-08-17T16:34:33: 2020-08-17 16:34:33 [32minfo[39m: App start..
+2020-08-17T16:34:36: Listening on port 8080
+2020-08-17T16:34:37: 2020-08-17 16:34:37 [32minfo[39m: App start..
+2020-08-17T16:34:37: Listening on port 8080
+2020-08-17T16:34:37: 2020-08-17 16:34:37 [32minfo[39m: App start..
+2020-08-17T16:34:40: Listening on port 8080
+2020-08-17T16:34:41: 2020-08-17 16:34:41 [32minfo[39m: App start..
+2020-08-17T16:34:41: Listening on port 8080
+2020-08-17T16:34:41: 2020-08-17 16:34:41 [32minfo[39m: App start..
+2020-08-17T16:34:44: Listening on port 8080
+2020-08-17T16:34:46: 2020-08-17 16:34:46 [32minfo[39m: App start..
+2020-08-17T16:34:46: Listening on port 8080
+2020-08-17T16:34:46: 2020-08-17 16:34:46 [32minfo[39m: App start..
+2020-08-17T16:34:48: Listening on port 8080
+2020-08-17T16:34:49: 2020-08-17 16:34:49 [32minfo[39m: App start..
+2020-08-17T16:34:49: Listening on port 8080
+2020-08-17T16:34:49: 2020-08-17 16:34:49 [32minfo[39m: App start..
+2020-08-17T16:34:51: Listening on port 8080
+2020-08-17T16:34:53: 2020-08-17 16:34:53 [32minfo[39m: App start..
+2020-08-17T16:34:53: Listening on port 8080
+2020-08-17T16:34:53: 2020-08-17 16:34:53 [32minfo[39m: App start..
+2020-08-17T16:34:56: Listening on port 8080
+2020-08-17T16:34:57: 2020-08-17 16:34:57 [32minfo[39m: App start..
+2020-08-17T16:34:57: Listening on port 8080
+2020-08-17T16:34:58: 2020-08-17 16:34:58 [32minfo[39m: App start..
+2020-08-17T16:35:01: Listening on port 8080
+2020-08-17T16:35:02: 2020-08-17 16:35:02 [32minfo[39m: App start..
+2020-08-17T16:35:02: Listening on port 8080
+2020-08-17T16:35:02: 2020-08-17 16:35:02 [32minfo[39m: App start..
+2020-08-17T16:35:05: Listening on port 8080
+2020-08-17T16:35:06: 2020-08-17 16:35:06 [32minfo[39m: App start..
+2020-08-17T16:35:06: Listening on port 8080
+2020-08-17T16:35:06: 2020-08-17 16:35:06 [32minfo[39m: App start..
+2020-08-17T16:35:09: Listening on port 8080
+2020-08-17T16:35:10: 2020-08-17 16:35:10 [32minfo[39m: App start..
+2020-08-17T16:35:10: Listening on port 8080
+2020-08-17T16:35:10: 2020-08-17 16:35:10 [32minfo[39m: App start..
+2020-08-17T16:35:13: Listening on port 8080
+2020-08-17T16:35:14: 2020-08-17 16:35:14 [32minfo[39m: App start..
+2020-08-17T16:35:14: Listening on port 8080
+2020-08-17T16:35:14: 2020-08-17 16:35:14 [32minfo[39m: App start..
+2020-08-17T16:35:17: Listening on port 8080
+2020-08-17T16:35:18: 2020-08-17 16:35:18 [32minfo[39m: App start..
+2020-08-17T16:35:18: Listening on port 8080
+2020-08-17T16:35:18: 2020-08-17 16:35:18 [32minfo[39m: App start..
+2020-08-17T16:35:21: Listening on port 8080
+2020-08-17T16:35:22: 2020-08-17 16:35:22 [32minfo[39m: App start..
+2020-08-17T16:35:22: Listening on port 8080
+2020-08-17T16:35:22: 2020-08-17 16:35:22 [32minfo[39m: App start..
+2020-08-17T16:35:25: Listening on port 8080
+2020-08-17T16:35:25: 2020-08-17 16:35:25 [32minfo[39m: App start..
+2020-08-17T16:35:25: Listening on port 8080
+2020-08-17T16:35:26: 2020-08-17 16:35:26 [32minfo[39m: App start..
+2020-08-17T16:35:29: Listening on port 8080
+2020-08-17T16:35:30: 2020-08-17 16:35:30 [32minfo[39m: App start..
+2020-08-17T16:35:30: Listening on port 8080
+2020-08-17T16:35:30: 2020-08-17 16:35:30 [32minfo[39m: App start..
+2020-08-17T16:35:33: Listening on port 8080
+2020-08-17T16:35:33: 2020-08-17 16:35:33 [32minfo[39m: App start..
+2020-08-17T16:35:34: Listening on port 8080
+2020-08-17T16:35:34: 2020-08-17 16:35:34 [32minfo[39m: App start..
+2020-08-17T16:35:37: Listening on port 8080
+2020-08-17T16:35:38: 2020-08-17 16:35:38 [32minfo[39m: App start..
+2020-08-17T16:35:38: Listening on port 8080
+2020-08-17T16:35:38: 2020-08-17 16:35:38 [32minfo[39m: App start..
+2020-08-17T16:35:40: Listening on port 8080
+2020-08-17T16:35:41: 2020-08-17 16:35:41 [32minfo[39m: App start..
+2020-08-17T16:35:41: Listening on port 8080
+2020-08-17T16:35:41: 2020-08-17 16:35:41 [32minfo[39m: App start..
+2020-08-17T16:35:44: Listening on port 8080
+2020-08-17T16:35:45: 2020-08-17 16:35:45 [32minfo[39m: App start..
+2020-08-17T16:35:45: Listening on port 8080
+2020-08-17T16:35:45: 2020-08-17 16:35:45 [32minfo[39m: App start..
+2020-08-17T16:35:48: Listening on port 8080
+2020-08-17T16:35:49: 2020-08-17 16:35:49 [32minfo[39m: App start..
+2020-08-17T16:35:49: Listening on port 8080
+2020-08-17T16:35:49: 2020-08-17 16:35:49 [32minfo[39m: App start..
+2020-08-17T16:35:52: Listening on port 8080
+2020-08-17T16:35:53: 2020-08-17 16:35:53 [32minfo[39m: App start..
+2020-08-17T16:35:53: Listening on port 8080
+2020-08-17T16:35:53: 2020-08-17 16:35:53 [32minfo[39m: App start..
+2020-08-17T16:35:56: Listening on port 8080
+2020-08-17T16:35:57: 2020-08-17 16:35:57 [32minfo[39m: App start..
+2020-08-17T16:35:57: Listening on port 8080
+2020-08-17T16:35:57: 2020-08-17 16:35:57 [32minfo[39m: App start..
+2020-08-17T16:35:59: Listening on port 8080
+2020-08-17T16:36:00: 2020-08-17 16:36:00 [32minfo[39m: App start..
+2020-08-17T16:36:00: Listening on port 8080
+2020-08-17T16:36:01: 2020-08-17 16:36:01 [32minfo[39m: App start..
+2020-08-17T16:36:02: Listening on port 8080
+2020-08-17T16:36:03: 2020-08-17 16:36:03 [32minfo[39m: App start..
+2020-08-17T16:36:03: Listening on port 8080
+2020-08-17T16:36:04: 2020-08-17 16:36:04 [32minfo[39m: App start..
+2020-08-17T16:36:06: Listening on port 8080
+2020-08-17T16:36:06: 2020-08-17 16:36:06 [32minfo[39m: App start..
+2020-08-17T16:36:07: Listening on port 8080
+2020-08-17T16:36:07: 2020-08-17 16:36:07 [32minfo[39m: App start..
+2020-08-17T16:36:10: Listening on port 8080
+2020-08-17T16:36:10: 2020-08-17 16:36:10 [32minfo[39m: App start..
+2020-08-17T16:36:10: Listening on port 8080
+2020-08-17T16:36:11: 2020-08-17 16:36:11 [32minfo[39m: App start..
+2020-08-17T16:36:14: Listening on port 8080
+2020-08-17T16:36:15: 2020-08-17 16:36:15 [32minfo[39m: App start..
+2020-08-17T16:36:15: Listening on port 8080
+2020-08-17T16:36:15: 2020-08-17 16:36:15 [32minfo[39m: App start..
+2020-08-17T16:36:18: Listening on port 8080
+2020-08-17T16:36:19: 2020-08-17 16:36:19 [32minfo[39m: App start..
+2020-08-17T16:36:19: Listening on port 8080
+2020-08-17T16:36:19: 2020-08-17 16:36:19 [32minfo[39m: App start..
+2020-08-17T16:36:22: Listening on port 8080
+2020-08-17T16:36:23: 2020-08-17 16:36:23 [32minfo[39m: App start..
+2020-08-17T16:36:23: Listening on port 8080
+2020-08-17T16:36:23: 2020-08-17 16:36:23 [32minfo[39m: App start..
+2020-08-17T16:36:26: Listening on port 8080
+2020-08-17T16:36:27: 2020-08-17 16:36:27 [32minfo[39m: App start..
+2020-08-17T16:36:27: Listening on port 8080
+2020-08-17T16:36:27: 2020-08-17 16:36:27 [32minfo[39m: App start..
+2020-08-17T16:36:30: Listening on port 8080
+2020-08-17T16:36:31: 2020-08-17 16:36:31 [32minfo[39m: App start..
+2020-08-17T16:36:31: Listening on port 8080
+2020-08-17T16:36:31: 2020-08-17 16:36:31 [32minfo[39m: App start..
+2020-08-17T16:36:34: Listening on port 8080
+2020-08-17T16:36:35: 2020-08-17 16:36:35 [32minfo[39m: App start..
+2020-08-17T16:36:35: Listening on port 8080
+2020-08-17T16:36:35: 2020-08-17 16:36:35 [32minfo[39m: App start..
+2020-08-17T16:36:38: Listening on port 8080
+2020-08-17T16:36:38: 2020-08-17 16:36:38 [32minfo[39m: App start..
+2020-08-17T16:36:38: Listening on port 8080
+2020-08-17T16:36:39: 2020-08-17 16:36:39 [32minfo[39m: App start..
+2020-08-17T16:36:42: Listening on port 8080
+2020-08-17T16:36:42: 2020-08-17 16:36:42 [32minfo[39m: App start..
+2020-08-17T16:36:42: Listening on port 8080
+2020-08-17T16:36:43: 2020-08-17 16:36:43 [32minfo[39m: App start..
+2020-08-17T16:36:46: Listening on port 8080
+2020-08-17T16:36:46: 2020-08-17 16:36:46 [32minfo[39m: App start..
+2020-08-17T16:36:46: Listening on port 8080
+2020-08-17T16:36:47: 2020-08-17 16:36:47 [32minfo[39m: App start..
+2020-08-17T16:36:50: Listening on port 8080
+2020-08-17T16:36:50: 2020-08-17 16:36:50 [32minfo[39m: App start..
+2020-08-17T16:36:50: Listening on port 8080
+2020-08-17T16:36:51: 2020-08-17 16:36:51 [32minfo[39m: App start..
+2020-08-17T16:36:54: Listening on port 8080
+2020-08-17T16:36:54: 2020-08-17 16:36:54 [32minfo[39m: App start..
+2020-08-17T16:36:54: Listening on port 8080
+2020-08-17T16:36:55: 2020-08-17 16:36:55 [32minfo[39m: App start..
+2020-08-17T16:36:57: Listening on port 8080
+2020-08-17T16:36:58: 2020-08-17 16:36:58 [32minfo[39m: App start..
+2020-08-17T16:36:58: Listening on port 8080
+2020-08-17T16:36:59: 2020-08-17 16:36:59 [32minfo[39m: App start..
+2020-08-17T16:37:00: Listening on port 8080
+2020-08-17T16:37:01: 2020-08-17 16:37:01 [32minfo[39m: App start..
+2020-08-17T16:37:01: Listening on port 8080
+2020-08-17T16:37:02: 2020-08-17 16:37:02 [32minfo[39m: App start..
+2020-08-17T16:37:04: Listening on port 8080
+2020-08-17T16:37:05: 2020-08-17 16:37:05 [32minfo[39m: App start..
+2020-08-17T16:37:05: Listening on port 8080
+2020-08-17T16:37:06: 2020-08-17 16:37:06 [32minfo[39m: App start..
+2020-08-17T16:37:08: Listening on port 8080
+2020-08-17T16:37:09: 2020-08-17 16:37:09 [32minfo[39m: App start..
+2020-08-17T16:37:09: Listening on port 8080
+2020-08-17T16:37:10: 2020-08-17 16:37:10 [32minfo[39m: App start..
+2020-08-17T16:37:12: Listening on port 8080
+2020-08-17T16:37:13: 2020-08-17 16:37:13 [32minfo[39m: App start..
+2020-08-17T16:37:13: Listening on port 8080
+2020-08-17T16:37:14: 2020-08-17 16:37:14 [32minfo[39m: App start..
+2020-08-17T16:37:16: Listening on port 8080
+2020-08-17T16:37:17: 2020-08-17 16:37:17 [32minfo[39m: App start..
+2020-08-17T16:37:17: Listening on port 8080
+2020-08-17T16:37:18: 2020-08-17 16:37:18 [32minfo[39m: App start..
+2020-08-17T16:37:20: Listening on port 8080
+2020-08-17T16:37:21: 2020-08-17 16:37:21 [32minfo[39m: App start..
+2020-08-17T16:37:21: Listening on port 8080
+2020-08-17T16:37:22: 2020-08-17 16:37:22 [32minfo[39m: App start..
+2020-08-17T16:37:24: Listening on port 8080
+2020-08-17T16:37:25: 2020-08-17 16:37:25 [32minfo[39m: App start..
+2020-08-17T16:37:25: Listening on port 8080
+2020-08-17T16:37:26: 2020-08-17 16:37:26 [32minfo[39m: App start..
+2020-08-17T16:37:29: Listening on port 8080
+2020-08-17T16:37:29: 2020-08-17 16:37:29 [32minfo[39m: App start..
+2020-08-17T16:37:29: Listening on port 8080
+2020-08-17T16:37:30: 2020-08-17 16:37:30 [32minfo[39m: App start..
+2020-08-17T16:37:33: Listening on port 8080
+2020-08-17T16:37:33: 2020-08-17 16:37:33 [32minfo[39m: App start..
+2020-08-17T16:37:33: Listening on port 8080
+2020-08-17T16:37:34: 2020-08-17 16:37:34 [32minfo[39m: App start..
+2020-08-17T16:37:37: Listening on port 8080
+2020-08-17T16:37:37: 2020-08-17 16:37:37 [32minfo[39m: App start..
+2020-08-17T16:37:37: Listening on port 8080
+2020-08-17T16:37:38: 2020-08-17 16:37:38 [32minfo[39m: App start..
+2020-08-17T16:37:40: Listening on port 8080
+2020-08-17T16:37:41: 2020-08-17 16:37:41 [32minfo[39m: App start..
+2020-08-17T16:37:41: Listening on port 8080
+2020-08-17T16:37:42: 2020-08-17 16:37:42 [32minfo[39m: App start..
+2020-08-17T16:37:44: Listening on port 8080
+2020-08-17T16:37:45: 2020-08-17 16:37:45 [32minfo[39m: App start..
+2020-08-17T16:37:45: Listening on port 8080
+2020-08-17T16:37:46: 2020-08-17 16:37:46 [32minfo[39m: App start..
+2020-08-17T16:37:48: Listening on port 8080
+2020-08-17T16:37:49: 2020-08-17 16:37:49 [32minfo[39m: App start..
+2020-08-17T16:37:49: Listening on port 8080
+2020-08-17T16:37:50: 2020-08-17 16:37:50 [32minfo[39m: App start..
+2020-08-17T16:37:52: Listening on port 8080
+2020-08-17T16:37:53: 2020-08-17 16:37:53 [32minfo[39m: App start..
+2020-08-17T16:37:53: Listening on port 8080
+2020-08-17T16:37:54: 2020-08-17 16:37:54 [32minfo[39m: App start..
+2020-08-17T16:37:56: Listening on port 8080
+2020-08-17T16:37:57: 2020-08-17 16:37:57 [32minfo[39m: App start..
+2020-08-17T16:37:57: Listening on port 8080
+2020-08-17T16:37:58: 2020-08-17 16:37:58 [32minfo[39m: App start..
+2020-08-17T16:38:00: Listening on port 8080
+2020-08-17T16:38:01: 2020-08-17 16:38:01 [32minfo[39m: App start..
+2020-08-17T16:38:01: Listening on port 8080
+2020-08-17T16:38:02: 2020-08-17 16:38:02 [32minfo[39m: App start..
+2020-08-17T16:38:04: Listening on port 8080
+2020-08-17T16:38:05: 2020-08-17 16:38:05 [32minfo[39m: App start..
+2020-08-17T16:38:05: Listening on port 8080
+2020-08-17T16:38:06: 2020-08-17 16:38:06 [32minfo[39m: App start..
+2020-08-17T16:38:07: Listening on port 8080
+2020-08-17T16:38:08: 2020-08-17 16:38:08 [32minfo[39m: App start..
+2020-08-17T16:38:08: Listening on port 8080
+2020-08-17T16:38:09: 2020-08-17 16:38:09 [32minfo[39m: App start..
+2020-08-17T16:38:11: Listening on port 8080
+2020-08-17T16:38:12: 2020-08-17 16:38:12 [32minfo[39m: App start..
+2020-08-17T16:38:12: Listening on port 8080
+2020-08-17T16:38:13: 2020-08-17 16:38:13 [32minfo[39m: App start..
+2020-08-17T16:38:15: Listening on port 8080
+2020-08-17T16:38:16: 2020-08-17 16:38:16 [32minfo[39m: App start..
+2020-08-17T16:38:16: Listening on port 8080
+2020-08-17T16:38:16: 2020-08-17 16:38:16 [32minfo[39m: App start..
+2020-08-17T16:38:19: Listening on port 8080
+2020-08-17T16:38:20: 2020-08-17 16:38:20 [32minfo[39m: App start..
+2020-08-17T16:38:20: Listening on port 8080
+2020-08-17T16:38:20: 2020-08-17 16:38:20 [32minfo[39m: App start..
+2020-08-17T16:38:23: Listening on port 8080
+2020-08-17T16:38:24: 2020-08-17 16:38:24 [32minfo[39m: App start..
+2020-08-17T16:38:24: Listening on port 8080
+2020-08-17T16:38:24: 2020-08-17 16:38:24 [32minfo[39m: App start..
+2020-08-17T16:38:27: Listening on port 8080
+2020-08-17T16:38:28: 2020-08-17 16:38:28 [32minfo[39m: App start..
+2020-08-17T16:38:28: Listening on port 8080
+2020-08-17T16:38:29: 2020-08-17 16:38:29 [32minfo[39m: App start..
+2020-08-17T16:38:32: Listening on port 8080
+2020-08-17T16:38:33: 2020-08-17 16:38:33 [32minfo[39m: App start..
+2020-08-17T16:38:33: Listening on port 8080
+2020-08-17T16:38:33: 2020-08-17 16:38:33 [32minfo[39m: App start..
+2020-08-17T16:38:36: Listening on port 8080
+2020-08-17T16:38:37: 2020-08-17 16:38:37 [32minfo[39m: App start..
+2020-08-17T16:38:37: Listening on port 8080
+2020-08-17T16:38:38: 2020-08-17 16:38:38 [32minfo[39m: App start..
+2020-08-17T16:38:40: Listening on port 8080
+2020-08-17T16:38:42: 2020-08-17 16:38:42 [32minfo[39m: App start..
+2020-08-17T16:38:42: Listening on port 8080
+2020-08-17T16:38:42: 2020-08-17 16:38:42 [32minfo[39m: App start..
+2020-08-17T16:38:44: Listening on port 8080
+2020-08-17T16:38:45: 2020-08-17 16:38:45 [32minfo[39m: App start..
+2020-08-17T16:38:45: Listening on port 8080
+2020-08-17T16:38:45: 2020-08-17 16:38:45 [32minfo[39m: App start..
+2020-08-17T16:38:48: Listening on port 8080
+2020-08-17T16:38:49: 2020-08-17 16:38:49 [32minfo[39m: App start..
+2020-08-17T16:38:49: Listening on port 8080
+2020-08-17T16:38:49: 2020-08-17 16:38:49 [32minfo[39m: App start..
+2020-08-17T16:38:52: Listening on port 8080
+2020-08-17T16:38:53: 2020-08-17 16:38:53 [32minfo[39m: App start..
+2020-08-17T16:38:53: Listening on port 8080
+2020-08-17T16:38:53: 2020-08-17 16:38:53 [32minfo[39m: App start..
+2020-08-17T16:38:56: Listening on port 8080
+2020-08-17T16:38:57: 2020-08-17 16:38:57 [32minfo[39m: App start..
+2020-08-17T16:38:57: Listening on port 8080
+2020-08-17T16:38:57: 2020-08-17 16:38:57 [32minfo[39m: App start..
+2020-08-17T16:39:00: Listening on port 8080
+2020-08-17T16:39:01: 2020-08-17 16:39:01 [32minfo[39m: App start..
+2020-08-17T16:39:01: Listening on port 8080
+2020-08-17T16:39:01: 2020-08-17 16:39:01 [32minfo[39m: App start..
+2020-08-17T16:39:04: Listening on port 8080
+2020-08-17T16:39:05: 2020-08-17 16:39:05 [32minfo[39m: App start..
+2020-08-17T16:39:05: Listening on port 8080
+2020-08-17T16:39:05: 2020-08-17 16:39:05 [32minfo[39m: App start..
+2020-08-17T16:39:08: Listening on port 8080
+2020-08-17T16:39:09: 2020-08-17 16:39:09 [32minfo[39m: App start..
+2020-08-17T16:39:09: Listening on port 8080
+2020-08-17T16:39:09: 2020-08-17 16:39:09 [32minfo[39m: App start..
+2020-08-17T16:39:12: Listening on port 8080
+2020-08-17T16:39:13: 2020-08-17 16:39:13 [32minfo[39m: App start..
+2020-08-17T16:39:13: Listening on port 8080
+2020-08-17T16:39:14: 2020-08-17 16:39:14 [32minfo[39m: App start..
+2020-08-17T16:39:16: Listening on port 8080
+2020-08-17T16:39:17: 2020-08-17 16:39:17 [32minfo[39m: App start..
+2020-08-17T16:39:17: Listening on port 8080
+2020-08-17T16:39:18: 2020-08-17 16:39:18 [32minfo[39m: App start..
+2020-08-17T16:39:21: Listening on port 8080
+2020-08-17T16:39:21: 2020-08-17 16:39:21 [32minfo[39m: App start..
+2020-08-17T16:39:21: Listening on port 8080
+2020-08-17T16:39:22: 2020-08-17 16:39:22 [32minfo[39m: App start..
+2020-08-17T16:39:25: Listening on port 8080
+2020-08-17T16:39:25: 2020-08-17 16:39:25 [32minfo[39m: App start..
+2020-08-17T16:39:25: Listening on port 8080
+2020-08-17T16:39:26: 2020-08-17 16:39:26 [32minfo[39m: App start..
+2020-08-17T16:39:29: Listening on port 8080
+2020-08-17T16:39:29: 2020-08-17 16:39:29 [32minfo[39m: App start..
+2020-08-17T16:39:29: Listening on port 8080
+2020-08-17T16:39:30: 2020-08-17 16:39:30 [32minfo[39m: App start..
+2020-08-17T16:39:33: Listening on port 8080
+2020-08-17T16:39:33: 2020-08-17 16:39:33 [32minfo[39m: App start..
+2020-08-17T16:39:33: Listening on port 8080
+2020-08-17T16:39:34: 2020-08-17 16:39:34 [32minfo[39m: App start..
+2020-08-17T16:39:37: Listening on port 8080
+2020-08-17T16:39:38: 2020-08-17 16:39:38 [32minfo[39m: App start..
+2020-08-17T16:39:38: Listening on port 8080
+2020-08-17T16:39:38: 2020-08-17 16:39:38 [32minfo[39m: App start..
+2020-08-17T16:39:41: Listening on port 8080
+2020-08-17T16:39:42: 2020-08-17 16:39:42 [32minfo[39m: App start..
+2020-08-17T16:39:42: Listening on port 8080
+2020-08-17T16:39:42: 2020-08-17 16:39:42 [32minfo[39m: App start..
+2020-08-17T16:39:45: Listening on port 8080
+2020-08-17T16:39:46: 2020-08-17 16:39:46 [32minfo[39m: App start..
+2020-08-17T16:39:46: Listening on port 8080
+2020-08-17T16:39:46: 2020-08-17 16:39:46 [32minfo[39m: App start..
+2020-08-17T16:39:49: Listening on port 8080
+2020-08-17T16:39:50: 2020-08-17 16:39:50 [32minfo[39m: App start..
+2020-08-17T16:39:50: Listening on port 8080
+2020-08-17T16:39:51: 2020-08-17 16:39:51 [32minfo[39m: App start..
+2020-08-17T16:39:53: Listening on port 8080
+2020-08-17T16:39:54: 2020-08-17 16:39:54 [32minfo[39m: App start..
+2020-08-17T16:39:54: Listening on port 8080
+2020-08-17T16:39:54: 2020-08-17 16:39:54 [32minfo[39m: App start..
+2020-08-17T16:39:57: Listening on port 8080
+2020-08-17T16:39:58: 2020-08-17 16:39:58 [32minfo[39m: App start..
+2020-08-17T16:39:58: Listening on port 8080
+2020-08-17T16:39:58: 2020-08-17 16:39:58 [32minfo[39m: App start..
+2020-08-17T16:40:01: Listening on port 8080
+2020-08-17T16:40:02: 2020-08-17 16:40:02 [32minfo[39m: App start..
+2020-08-17T16:40:02: Listening on port 8080
+2020-08-17T16:40:02: 2020-08-17 16:40:02 [32minfo[39m: App start..
+2020-08-17T16:40:04: Listening on port 8080
+2020-08-17T16:40:05: 2020-08-17 16:40:05 [32minfo[39m: App start..
+2020-08-17T16:40:05: Listening on port 8080
+2020-08-17T16:40:06: 2020-08-17 16:40:06 [32minfo[39m: App start..
+2020-08-17T16:40:08: Listening on port 8080
+2020-08-17T16:40:09: 2020-08-17 16:40:09 [32minfo[39m: App start..
+2020-08-17T16:40:09: Listening on port 8080
+2020-08-17T16:40:09: 2020-08-17 16:40:09 [32minfo[39m: App start..
+2020-08-17T16:40:12: Listening on port 8080
+2020-08-17T16:40:13: 2020-08-17 16:40:13 [32minfo[39m: App start..
+2020-08-17T16:40:13: Listening on port 8080
+2020-08-17T16:40:13: 2020-08-17 16:40:13 [32minfo[39m: App start..
+2020-08-17T16:40:14: Listening on port 8080
+2020-08-17T16:40:15: 2020-08-17 16:40:15 [32minfo[39m: App start..
+2020-08-17T16:40:15: Listening on port 8080
+2020-08-17T16:40:15: 2020-08-17 16:40:15 [32minfo[39m: App start..
+2020-08-17T16:40:18: Listening on port 8080
+2020-08-17T16:40:18: 2020-08-17 16:40:18 [32minfo[39m: App start..
+2020-08-17T16:40:18: Listening on port 8080
+2020-08-17T16:40:19: 2020-08-17 16:40:19 [32minfo[39m: App start..
+2020-08-17T16:40:21: Listening on port 8080
+2020-08-17T16:40:22: 2020-08-17 16:40:22 [32minfo[39m: App start..
+2020-08-17T16:40:22: Listening on port 8080
+2020-08-17T16:40:22: 2020-08-17 16:40:22 [32minfo[39m: App start..
+2020-08-17T16:40:24: Listening on port 8080
+2020-08-17T16:40:25: 2020-08-17 16:40:25 [32minfo[39m: App start..
+2020-08-17T16:40:25: Listening on port 8080
+2020-08-17T16:40:25: 2020-08-17 16:40:25 [32minfo[39m: App start..
+2020-08-17T16:40:28: Listening on port 8080
+2020-08-17T16:40:29: 2020-08-17 16:40:29 [32minfo[39m: App start..
+2020-08-17T16:40:29: Listening on port 8080
+2020-08-17T16:40:29: 2020-08-17 16:40:29 [32minfo[39m: App start..
+2020-08-17T16:40:31: Listening on port 8080
+2020-08-17T16:40:32: 2020-08-17 16:40:32 [32minfo[39m: App start..
+2020-08-17T16:40:32: Listening on port 8080
+2020-08-17T16:40:32: 2020-08-17 16:40:32 [32minfo[39m: App start..
+2020-08-17T16:40:35: Listening on port 8080
+2020-08-17T16:40:35: 2020-08-17 16:40:35 [32minfo[39m: App start..
+2020-08-17T16:40:35: Listening on port 8080
+2020-08-17T16:40:36: 2020-08-17 16:40:36 [32minfo[39m: App start..
+2020-08-17T16:40:38: Listening on port 8080
+2020-08-17T16:40:39: 2020-08-17 16:40:39 [32minfo[39m: App start..
+2020-08-17T16:40:39: Listening on port 8080
+2020-08-17T16:40:39: 2020-08-17 16:40:39 [32minfo[39m: App start..
+2020-08-17T16:40:41: Listening on port 8080
+2020-08-17T16:40:42: 2020-08-17 16:40:42 [32minfo[39m: App start..
+2020-08-17T16:40:42: Listening on port 8080
+2020-08-17T16:40:42: 2020-08-17 16:40:42 [32minfo[39m: App start..
+2020-08-17T16:40:45: Listening on port 8080
+2020-08-17T16:40:45: 2020-08-17 16:40:45 [32minfo[39m: App start..
+2020-08-17T16:40:45: Listening on port 8080
+2020-08-17T16:40:46: 2020-08-17 16:40:46 [32minfo[39m: App start..
+2020-08-17T16:40:48: Listening on port 8080
+2020-08-17T16:40:49: 2020-08-17 16:40:49 [32minfo[39m: App start..
+2020-08-17T16:40:49: Listening on port 8080
+2020-08-17T16:40:49: 2020-08-17 16:40:49 [32minfo[39m: App start..
+2020-08-17T16:40:51: Listening on port 8080
+2020-08-17T16:40:52: 2020-08-17 16:40:52 [32minfo[39m: App start..
+2020-08-17T16:40:52: Listening on port 8080
+2020-08-17T16:40:53: 2020-08-17 16:40:53 [32minfo[39m: App start..
+2020-08-17T16:40:55: Listening on port 8080
+2020-08-17T16:40:56: 2020-08-17 16:40:56 [32minfo[39m: App start..
+2020-08-17T16:40:56: Listening on port 8080
+2020-08-17T16:40:56: 2020-08-17 16:40:56 [32minfo[39m: App start..
+2020-08-17T16:40:59: Listening on port 8080
+2020-08-17T16:40:59: 2020-08-17 16:40:59 [32minfo[39m: App start..
+2020-08-17T16:40:59: Listening on port 8080
+2020-08-17T16:41:00: 2020-08-17 16:41:00 [32minfo[39m: App start..
+2020-08-17T16:41:01: Listening on port 8080
+2020-08-17T16:41:02: 2020-08-17 16:41:02 [32minfo[39m: App start..
+2020-08-17T16:41:02: Listening on port 8080
+2020-08-17T16:41:03: 2020-08-17 16:41:03 [32minfo[39m: App start..
+2020-08-17T16:41:05: Listening on port 8080
+2020-08-17T16:41:06: 2020-08-17 16:41:06 [32minfo[39m: App start..
+2020-08-17T16:41:06: Listening on port 8080
+2020-08-17T16:41:06: 2020-08-17 16:41:06 [32minfo[39m: App start..
+2020-08-17T16:41:08: Listening on port 8080
+2020-08-17T16:41:09: 2020-08-17 16:41:09 [32minfo[39m: App start..
+2020-08-17T16:41:09: Listening on port 8080
+2020-08-17T16:41:09: 2020-08-17 16:41:09 [32minfo[39m: App start..
+2020-08-17T16:41:11: Listening on port 8080
+2020-08-17T16:41:12: 2020-08-17 16:41:12 [32minfo[39m: App start..
+2020-08-17T16:41:12: Listening on port 8080
+2020-08-17T16:41:12: 2020-08-17 16:41:12 [32minfo[39m: App start..
+2020-08-17T16:41:15: Listening on port 8080
+2020-08-17T16:41:15: 2020-08-17 16:41:15 [32minfo[39m: App start..
+2020-08-17T16:41:15: Listening on port 8080
+2020-08-17T16:41:16: 2020-08-17 16:41:16 [32minfo[39m: App start..
+2020-08-17T16:41:18: Listening on port 8080
+2020-08-17T16:41:19: 2020-08-17 16:41:19 [32minfo[39m: App start..
+2020-08-17T16:41:19: Listening on port 8080
+2020-08-17T16:41:19: 2020-08-17 16:41:19 [32minfo[39m: App start..
+2020-08-17T16:41:21: Listening on port 8080
+2020-08-17T16:41:22: 2020-08-17 16:41:22 [32minfo[39m: App start..
+2020-08-17T16:41:22: Listening on port 8080
+2020-08-17T16:41:22: 2020-08-17 16:41:22 [32minfo[39m: App start..
+2020-08-17T16:41:25: Listening on port 8080
+2020-08-17T16:41:26: 2020-08-17 16:41:26 [32minfo[39m: App start..
+2020-08-17T16:41:26: Listening on port 8080
+2020-08-17T16:41:26: 2020-08-17 16:41:26 [32minfo[39m: App start..
+2020-08-17T16:41:28: Listening on port 8080
+2020-08-17T16:41:29: 2020-08-17 16:41:29 [32minfo[39m: App start..
+2020-08-17T16:41:29: Listening on port 8080
+2020-08-17T16:41:29: 2020-08-17 16:41:29 [32minfo[39m: App start..
+2020-08-17T16:41:32: Listening on port 8080
+2020-08-17T16:41:32: 2020-08-17 16:41:32 [32minfo[39m: App start..
+2020-08-17T16:41:32: Listening on port 8080
+2020-08-17T16:41:33: 2020-08-17 16:41:33 [32minfo[39m: App start..
+2020-08-17T16:41:35: Listening on port 8080
+2020-08-17T16:41:36: 2020-08-17 16:41:36 [32minfo[39m: App start..
+2020-08-17T16:41:36: Listening on port 8080
+2020-08-17T16:41:36: 2020-08-17 16:41:36 [32minfo[39m: App start..
+2020-08-17T16:41:39: Listening on port 8080
+2020-08-17T16:41:39: 2020-08-17 16:41:39 [32minfo[39m: App start..
+2020-08-17T16:41:39: Listening on port 8080
+2020-08-17T16:41:40: 2020-08-17 16:41:40 [32minfo[39m: App start..
+2020-08-17T16:41:42: Listening on port 8080
+2020-08-17T16:41:43: 2020-08-17 16:41:43 [32minfo[39m: App start..
+2020-08-17T16:41:43: Listening on port 8080
+2020-08-17T16:41:43: 2020-08-17 16:41:43 [32minfo[39m: App start..
+2020-08-17T16:41:45: Listening on port 8080
+2020-08-17T16:41:46: 2020-08-17 16:41:46 [32minfo[39m: App start..
+2020-08-17T16:41:46: Listening on port 8080
+2020-08-17T16:41:47: 2020-08-17 16:41:47 [32minfo[39m: App start..
+2020-08-17T16:41:49: Listening on port 8080
+2020-08-17T16:41:50: 2020-08-17 16:41:50 [32minfo[39m: App start..
+2020-08-17T16:41:50: Listening on port 8080
+2020-08-17T16:41:50: 2020-08-17 16:41:50 [32minfo[39m: App start..
+2020-08-17T16:41:52: Listening on port 8080
+2020-08-17T16:41:52: 2020-08-17 16:41:52 [32minfo[39m: App start..
+2020-08-17T16:41:52: Listening on port 8080
+2020-08-17T16:41:53: 2020-08-17 16:41:53 [32minfo[39m: App start..
+2020-08-17T16:41:55: Listening on port 8080
+2020-08-17T16:41:56: 2020-08-17 16:41:56 [32minfo[39m: App start..
+2020-08-17T16:41:56: Listening on port 8080
+2020-08-17T16:41:56: 2020-08-17 16:41:56 [32minfo[39m: App start..
+2020-08-17T16:41:58: Listening on port 8080
+2020-08-17T16:41:59: 2020-08-17 16:41:59 [32minfo[39m: App start..
+2020-08-17T16:41:59: Listening on port 8080
+2020-08-17T16:41:59: 2020-08-17 16:41:59 [32minfo[39m: App start..
+2020-08-17T16:42:02: Listening on port 8080
+2020-08-17T16:42:03: 2020-08-17 16:42:03 [32minfo[39m: App start..
+2020-08-17T16:42:03: Listening on port 8080
+2020-08-17T16:42:03: 2020-08-17 16:42:03 [32minfo[39m: App start..
+2020-08-17T16:42:05: Listening on port 8080
+2020-08-17T16:42:06: 2020-08-17 16:42:06 [32minfo[39m: App start..
+2020-08-17T16:42:06: Listening on port 8080
+2020-08-17T16:42:07: 2020-08-17 16:42:07 [32minfo[39m: App start..
+2020-08-17T16:42:09: Listening on port 8080
+2020-08-17T16:42:10: 2020-08-17 16:42:10 [32minfo[39m: App start..
+2020-08-17T16:42:10: Listening on port 8080
+2020-08-17T16:42:10: 2020-08-17 16:42:10 [32minfo[39m: App start..
+2020-08-17T16:42:11: Listening on port 8080
+2020-08-17T16:42:12: 2020-08-17 16:42:12 [32minfo[39m: App start..
+2020-08-17T16:42:12: Listening on port 8080
+2020-08-17T16:42:13: 2020-08-17 16:42:13 [32minfo[39m: App start..
+2020-08-17T16:42:15: Listening on port 8080
+2020-08-17T16:42:16: 2020-08-17 16:42:16 [32minfo[39m: App start..
+2020-08-17T16:42:16: Listening on port 8080
+2020-08-17T16:42:16: 2020-08-17 16:42:16 [32minfo[39m: App start..
+2020-08-17T16:42:19: Listening on port 8080
+2020-08-17T16:42:19: 2020-08-17 16:42:19 [32minfo[39m: App start..
+2020-08-17T16:42:19: Listening on port 8080
+2020-08-17T16:42:20: 2020-08-17 16:42:20 [32minfo[39m: App start..
+2020-08-17T16:42:22: Listening on port 8080
+2020-08-17T16:42:23: 2020-08-17 16:42:23 [32minfo[39m: App start..
+2020-08-17T16:42:23: Listening on port 8080
+2020-08-17T16:42:24: 2020-08-17 16:42:24 [32minfo[39m: App start..
+2020-08-17T16:42:26: Listening on port 8080
+2020-08-17T16:42:27: 2020-08-17 16:42:27 [32minfo[39m: App start..
+2020-08-17T16:42:27: Listening on port 8080
+2020-08-17T16:42:27: 2020-08-17 16:42:27 [32minfo[39m: App start..
+2020-08-17T16:42:29: Listening on port 8080
+2020-08-17T16:42:30: 2020-08-17 16:42:30 [32minfo[39m: App start..
+2020-08-17T16:42:30: Listening on port 8080
+2020-08-17T16:42:30: 2020-08-17 16:42:30 [32minfo[39m: App start..
+2020-08-17T16:42:33: Listening on port 8080
+2020-08-17T16:42:34: 2020-08-17 16:42:34 [32minfo[39m: App start..
+2020-08-17T16:42:34: Listening on port 8080
+2020-08-17T16:42:34: 2020-08-17 16:42:34 [32minfo[39m: App start..
+2020-08-17T16:42:36: Listening on port 8080
+2020-08-17T16:42:37: 2020-08-17 16:42:37 [32minfo[39m: App start..
+2020-08-17T16:42:37: Listening on port 8080
+2020-08-17T16:42:38: 2020-08-17 16:42:38 [32minfo[39m: App start..
+2020-08-17T16:42:39: Listening on port 8080
+2020-08-17T16:42:40: 2020-08-17 16:42:40 [32minfo[39m: App start..
+2020-08-17T16:42:40: Listening on port 8080
+2020-08-17T16:42:40: 2020-08-17 16:42:40 [32minfo[39m: App start..
+2020-08-17T16:42:42: Listening on port 8080
+2020-08-17T16:42:43: 2020-08-17 16:42:43 [32minfo[39m: App start..
+2020-08-17T16:42:43: Listening on port 8080
+2020-08-17T16:42:44: 2020-08-17 16:42:44 [32minfo[39m: App start..
+2020-08-17T16:42:46: Listening on port 8080
+2020-08-17T16:42:47: 2020-08-17 16:42:47 [32minfo[39m: App start..
+2020-08-17T16:42:47: Listening on port 8080
+2020-08-17T16:42:47: 2020-08-17 16:42:47 [32minfo[39m: App start..
+2020-08-17T16:42:49: Listening on port 8080
+2020-08-17T16:42:50: 2020-08-17 16:42:50 [32minfo[39m: App start..
+2020-08-17T16:42:50: Listening on port 8080
+2020-08-17T16:42:51: 2020-08-17 16:42:51 [32minfo[39m: App start..
+2020-08-17T16:42:52: Listening on port 8080
+2020-08-17T16:42:53: 2020-08-17 16:42:53 [32minfo[39m: App start..
+2020-08-17T16:42:53: Listening on port 8080
+2020-08-17T16:42:53: 2020-08-17 16:42:53 [32minfo[39m: App start..
+2020-08-17T16:42:56: Listening on port 8080
+2020-08-17T16:42:56: 2020-08-17 16:42:56 [32minfo[39m: App start..
+2020-08-17T16:42:56: Listening on port 8080
+2020-08-17T16:42:57: 2020-08-17 16:42:57 [32minfo[39m: App start..
+2020-08-17T16:42:57: Listening on port 8080
+2020-08-17T16:42:58: 2020-08-17 16:42:58 [32minfo[39m: App start..
+2020-08-17T16:42:58: Listening on port 8080
+2020-08-17T16:42:59: 2020-08-17 16:42:59 [32minfo[39m: App start..
+2020-08-17T16:43:01: Listening on port 8080
+2020-08-17T16:43:02: 2020-08-17 16:43:02 [32minfo[39m: App start..
+2020-08-17T16:43:02: Listening on port 8080
+2020-08-17T16:43:03: 2020-08-17 16:43:03 [32minfo[39m: App start..
+2020-08-17T16:43:05: Listening on port 8080
+2020-08-17T16:43:06: 2020-08-17 16:43:06 [32minfo[39m: App start..
+2020-08-17T16:43:06: Listening on port 8080
+2020-08-17T16:43:06: 2020-08-17 16:43:06 [32minfo[39m: App start..
+2020-08-17T16:43:08: Listening on port 8080
+2020-08-17T16:43:09: 2020-08-17 16:43:09 [32minfo[39m: App start..
+2020-08-17T16:43:09: Listening on port 8080
+2020-08-17T16:43:09: 2020-08-17 16:43:09 [32minfo[39m: App start..
+2020-08-17T16:43:12: Listening on port 8080
+2020-08-17T16:43:13: 2020-08-17 16:43:13 [32minfo[39m: App start..
+2020-08-17T16:43:13: Listening on port 8080
+2020-08-17T16:43:13: 2020-08-17 16:43:13 [32minfo[39m: App start..
+2020-08-17T16:43:15: Listening on port 8080
+2020-08-17T16:43:16: 2020-08-17 16:43:16 [32minfo[39m: App start..
+2020-08-17T16:43:16: Listening on port 8080
+2020-08-17T16:43:17: 2020-08-17 16:43:17 [32minfo[39m: App start..
+2020-08-17T16:43:19: Listening on port 8080
+2020-08-17T16:43:20: 2020-08-17 16:43:20 [32minfo[39m: App start..
+2020-08-17T16:43:20: Listening on port 8080
+2020-08-17T16:43:20: 2020-08-17 16:43:20 [32minfo[39m: App start..
+2020-08-17T16:43:22: Listening on port 8080
+2020-08-17T16:43:23: 2020-08-17 16:43:23 [32minfo[39m: App start..
+2020-08-17T16:43:23: Listening on port 8080
+2020-08-17T16:43:23: 2020-08-17 16:43:23 [32minfo[39m: App start..
+2020-08-17T16:43:26: Listening on port 8080
+2020-08-17T16:43:27: 2020-08-17 16:43:27 [32minfo[39m: App start..
+2020-08-17T16:43:27: Listening on port 8080
+2020-08-17T16:43:27: 2020-08-17 16:43:27 [32minfo[39m: App start..
+2020-08-17T16:43:29: Listening on port 8080
+2020-08-17T16:43:31: 2020-08-17 16:43:31 [32minfo[39m: App start..
+2020-08-17T16:43:31: Listening on port 8080
+2020-08-17T16:43:31: 2020-08-17 16:43:31 [32minfo[39m: App start..
+2020-08-17T16:43:34: Listening on port 8080
+2020-08-17T16:43:35: 2020-08-17 16:43:35 [32minfo[39m: App start..
+2020-08-17T16:43:35: Listening on port 8080
+2020-08-17T16:43:35: 2020-08-17 16:43:35 [32minfo[39m: App start..
+2020-08-17T16:43:38: Listening on port 8080
+2020-08-17T16:43:40: 2020-08-17 16:43:40 [32minfo[39m: App start..
+2020-08-17T16:43:40: Listening on port 8080
+2020-08-17T16:43:40: 2020-08-17 16:43:40 [32minfo[39m: App start..
+2020-08-17T16:43:42: Listening on port 8080
+2020-08-17T16:43:44: 2020-08-17 16:43:44 [32minfo[39m: App start..
+2020-08-17T16:43:44: Listening on port 8080
+2020-08-17T16:43:44: 2020-08-17 16:43:44 [32minfo[39m: App start..
+2020-08-17T16:43:46: Listening on port 8080
+2020-08-17T16:43:47: 2020-08-17 16:43:47 [32minfo[39m: App start..
+2020-08-17T16:43:47: Listening on port 8080
+2020-08-17T16:43:48: 2020-08-17 16:43:48 [32minfo[39m: App start..
+2020-08-17T16:43:50: Listening on port 8080
+2020-08-17T16:43:51: 2020-08-17 16:43:51 [32minfo[39m: App start..
+2020-08-17T16:43:51: Listening on port 8080
+2020-08-17T16:43:52: 2020-08-17 16:43:52 [32minfo[39m: App start..
+2020-08-17T16:43:54: Listening on port 8080
+2020-08-17T16:43:55: 2020-08-17 16:43:55 [32minfo[39m: App start..
+2020-08-17T16:43:55: Listening on port 8080
+2020-08-17T16:43:55: 2020-08-17 16:43:55 [32minfo[39m: App start..
+2020-08-17T16:43:57: Listening on port 8080
+2020-08-17T16:43:58: 2020-08-17 16:43:58 [32minfo[39m: App start..
+2020-08-17T16:43:58: Listening on port 8080
+2020-08-17T16:43:59: 2020-08-17 16:43:59 [32minfo[39m: App start..
+2020-08-17T16:44:01: Listening on port 8080
+2020-08-17T16:44:02: 2020-08-17 16:44:02 [32minfo[39m: App start..
+2020-08-17T16:44:02: Listening on port 8080
+2020-08-17T16:44:02: 2020-08-17 16:44:02 [32minfo[39m: App start..
+2020-08-17T16:44:03: Listening on port 8080
+2020-08-17T16:44:04: 2020-08-17 16:44:04 [32minfo[39m: App start..
+2020-08-17T16:44:04: Listening on port 8080
+2020-08-17T16:44:05: 2020-08-17 16:44:05 [32minfo[39m: App start..
+2020-08-17T16:44:07: Listening on port 8080
+2020-08-17T16:44:08: 2020-08-17 16:44:08 [32minfo[39m: App start..
+2020-08-17T16:44:08: Listening on port 8080
+2020-08-17T16:44:08: 2020-08-17 16:44:08 [32minfo[39m: App start..
+2020-08-17T16:44:10: Listening on port 8080
+2020-08-17T16:44:11: 2020-08-17 16:44:11 [32minfo[39m: App start..
+2020-08-17T16:44:11: Listening on port 8080
+2020-08-17T16:44:11: 2020-08-17 16:44:11 [32minfo[39m: App start..
+2020-08-17T16:44:13: Listening on port 8080
+2020-08-17T16:44:14: 2020-08-17 16:44:14 [32minfo[39m: App start..
+2020-08-17T16:44:14: Listening on port 8080
+2020-08-17T16:44:14: 2020-08-17 16:44:14 [32minfo[39m: App start..
+2020-08-17T16:44:16: Listening on port 8080
+2020-08-17T16:44:17: 2020-08-17 16:44:17 [32minfo[39m: App start..
+2020-08-17T16:44:17: Listening on port 8080
+2020-08-17T16:44:17: 2020-08-17 16:44:17 [32minfo[39m: App start..
+2020-08-17T16:44:20: Listening on port 8080
+2020-08-17T16:44:21: 2020-08-17 16:44:21 [32minfo[39m: App start..
+2020-08-17T16:44:21: Listening on port 8080
+2020-08-17T16:44:21: 2020-08-17 16:44:21 [32minfo[39m: App start..
+2020-08-17T16:44:23: Listening on port 8080
+2020-08-17T16:44:24: 2020-08-17 16:44:24 [32minfo[39m: App start..
+2020-08-17T16:44:24: Listening on port 8080
+2020-08-17T16:44:24: 2020-08-17 16:44:24 [32minfo[39m: App start..
+2020-08-17T16:44:27: Listening on port 8080
+2020-08-17T16:44:27: 2020-08-17 16:44:27 [32minfo[39m: App start..
+2020-08-17T16:44:27: Listening on port 8080
+2020-08-17T16:44:28: 2020-08-17 16:44:28 [32minfo[39m: App start..
+2020-08-17T16:44:30: Listening on port 8080
+2020-08-17T16:44:31: 2020-08-17 16:44:31 [32minfo[39m: App start..
+2020-08-17T16:44:31: Listening on port 8080
+2020-08-17T16:44:31: 2020-08-17 16:44:31 [32minfo[39m: App start..
+2020-08-17T16:44:34: Listening on port 8080
+2020-08-17T16:44:34: 2020-08-17 16:44:34 [32minfo[39m: App start..
+2020-08-17T16:44:35: Listening on port 8080
+2020-08-17T16:44:35: 2020-08-17 16:44:35 [32minfo[39m: App start..
+2020-08-17T16:44:37: Listening on port 8080
+2020-08-17T16:44:38: 2020-08-17 16:44:38 [32minfo[39m: App start..
+2020-08-17T16:44:38: Listening on port 8080
+2020-08-17T16:44:39: 2020-08-17 16:44:39 [32minfo[39m: App start..
+2020-08-17T16:44:41: Listening on port 8080
+2020-08-17T16:44:42: 2020-08-17 16:44:42 [32minfo[39m: App start..
+2020-08-17T16:44:42: Listening on port 8080
+2020-08-17T16:44:42: 2020-08-17 16:44:42 [32minfo[39m: App start..
+2020-08-17T16:44:44: Listening on port 8080
+2020-08-17T16:44:45: 2020-08-17 16:44:45 [32minfo[39m: App start..
+2020-08-17T16:44:45: Listening on port 8080
+2020-08-17T16:44:46: 2020-08-17 16:44:46 [32minfo[39m: App start..
+2020-08-17T16:44:48: Listening on port 8080
+2020-08-17T16:44:49: 2020-08-17 16:44:49 [32minfo[39m: App start..
+2020-08-17T16:44:49: Listening on port 8080
+2020-08-17T16:44:49: 2020-08-17 16:44:49 [32minfo[39m: App start..
+2020-08-17T16:44:52: Listening on port 8080
+2020-08-17T16:44:52: 2020-08-17 16:44:52 [32minfo[39m: App start..
+2020-08-17T16:44:52: Listening on port 8080
+2020-08-17T16:44:53: 2020-08-17 16:44:53 [32minfo[39m: App start..
+2020-08-17T16:44:55: Listening on port 8080
+2020-08-17T16:44:56: 2020-08-17 16:44:56 [32minfo[39m: App start..
+2020-08-17T16:44:56: Listening on port 8080
+2020-08-17T16:44:56: 2020-08-17 16:44:56 [32minfo[39m: App start..
+2020-08-17T16:44:59: Listening on port 8080
+2020-08-17T16:45:00: 2020-08-17 16:45:00 [32minfo[39m: App start..
+2020-08-17T16:45:00: Listening on port 8080
+2020-08-17T16:45:00: 2020-08-17 16:45:00 [32minfo[39m: App start..
+2020-08-17T16:45:02: Listening on port 8080
+2020-08-17T16:45:03: 2020-08-17 16:45:03 [32minfo[39m: App start..
+2020-08-17T16:45:03: Listening on port 8080
+2020-08-17T16:45:04: 2020-08-17 16:45:04 [32minfo[39m: App start..
+2020-08-17T16:45:06: Listening on port 8080
+2020-08-17T16:45:07: 2020-08-17 16:45:07 [32minfo[39m: App start..
+2020-08-17T16:45:07: Listening on port 8080
+2020-08-17T16:45:07: 2020-08-17 16:45:07 [32minfo[39m: App start..
+2020-08-17T16:45:09: Listening on port 8080
+2020-08-17T16:45:10: 2020-08-17 16:45:10 [32minfo[39m: App start..
+2020-08-17T16:45:10: Listening on port 8080
+2020-08-17T16:45:11: 2020-08-17 16:45:11 [32minfo[39m: App start..
+2020-08-17T16:45:11: Listening on port 8080
+2020-08-17T16:45:13: 2020-08-17 16:45:13 [32minfo[39m: App start..
+2020-08-17T16:45:13: Listening on port 8080
+2020-08-17T16:45:13: 2020-08-17 16:45:13 [32minfo[39m: App start..
+2020-08-17T16:45:15: Listening on port 8080
+2020-08-17T16:45:16: 2020-08-17 16:45:16 [32minfo[39m: App start..
+2020-08-17T16:45:16: Listening on port 8080
+2020-08-17T16:45:16: 2020-08-17 16:45:16 [32minfo[39m: App start..
+2020-08-17T16:45:17: Listening on port 8080
+2020-08-17T16:45:19: 2020-08-17 16:45:19 [32minfo[39m: App start..
+2020-08-17T16:45:19: Listening on port 8080
+2020-08-17T16:45:19: 2020-08-17 16:45:19 [32minfo[39m: App start..
+2020-08-17T16:45:21: Listening on port 8080
+2020-08-17T16:45:22: 2020-08-17 16:45:22 [32minfo[39m: App start..
+2020-08-17T16:45:22: Listening on port 8080
+2020-08-17T16:45:22: 2020-08-17 16:45:22 [32minfo[39m: App start..
+2020-08-17T16:45:24: Listening on port 8080
+2020-08-17T16:45:25: 2020-08-17 16:45:25 [32minfo[39m: App start..
+2020-08-17T16:45:25: Listening on port 8080
+2020-08-17T16:45:26: 2020-08-17 16:45:26 [32minfo[39m: App start..
+2020-08-17T16:45:28: Listening on port 8080
+2020-08-17T16:45:29: 2020-08-17 16:45:29 [32minfo[39m: App start..
+2020-08-17T16:45:29: Listening on port 8080
+2020-08-17T16:45:29: 2020-08-17 16:45:29 [32minfo[39m: App start..
+2020-08-17T16:45:31: Listening on port 8080
+2020-08-17T16:45:32: 2020-08-17 16:45:32 [32minfo[39m: App start..
+2020-08-17T16:45:32: Listening on port 8080
+2020-08-17T16:45:33: 2020-08-17 16:45:33 [32minfo[39m: App start..
+2020-08-17T16:45:35: Listening on port 8080
+2020-08-17T16:45:36: 2020-08-17 16:45:36 [32minfo[39m: App start..
+2020-08-17T16:45:36: Listening on port 8080
+2020-08-17T16:45:36: 2020-08-17 16:45:36 [32minfo[39m: App start..
+2020-08-17T16:45:38: Listening on port 8080
+2020-08-17T16:45:40: 2020-08-17 16:45:39 [32minfo[39m: App start..
+2020-08-17T16:45:40: Listening on port 8080
+2020-08-17T16:45:40: 2020-08-17 16:45:40 [32minfo[39m: App start..
+2020-08-17T16:45:43: Listening on port 8080
+2020-08-17T16:45:43: 2020-08-17 16:45:43 [32minfo[39m: App start..
+2020-08-17T16:45:43: Listening on port 8080
+2020-08-17T16:45:44: 2020-08-17 16:45:44 [32minfo[39m: App start..
+2020-08-17T16:45:46: Listening on port 8080
+2020-08-17T16:45:47: 2020-08-17 16:45:47 [32minfo[39m: App start..
+2020-08-17T16:45:47: Listening on port 8080
+2020-08-17T16:45:47: 2020-08-17 16:45:47 [32minfo[39m: App start..
+2020-08-17T16:45:50: Listening on port 8080
+2020-08-17T16:45:50: 2020-08-17 16:45:50 [32minfo[39m: App start..
+2020-08-17T16:45:50: Listening on port 8080
+2020-08-17T16:45:51: 2020-08-17 16:45:51 [32minfo[39m: App start..
+2020-08-17T16:45:53: Listening on port 8080
+2020-08-17T16:45:54: 2020-08-17 16:45:54 [32minfo[39m: App start..
+2020-08-17T16:45:54: Listening on port 8080
+2020-08-17T16:45:54: 2020-08-17 16:45:54 [32minfo[39m: App start..
+2020-08-17T16:45:56: Listening on port 8080
+2020-08-17T16:45:57: 2020-08-17 16:45:57 [32minfo[39m: App start..
+2020-08-17T16:45:57: Listening on port 8080
+2020-08-17T16:45:58: 2020-08-17 16:45:58 [32minfo[39m: App start..
+2020-08-17T16:46:00: Listening on port 8080
+2020-08-17T16:46:01: 2020-08-17 16:46:01 [32minfo[39m: App start..
+2020-08-17T16:46:01: Listening on port 8080
+2020-08-17T16:46:01: 2020-08-17 16:46:01 [32minfo[39m: App start..
+2020-08-17T16:46:03: Listening on port 8080
+2020-08-17T16:46:04: 2020-08-17 16:46:04 [32minfo[39m: App start..
+2020-08-17T16:46:04: Listening on port 8080
+2020-08-17T16:46:05: 2020-08-17 16:46:05 [32minfo[39m: App start..
+2020-08-17T16:46:07: Listening on port 8080
+2020-08-17T16:46:08: 2020-08-17 16:46:08 [32minfo[39m: App start..
+2020-08-17T16:46:08: Listening on port 8080
+2020-08-17T16:46:08: 2020-08-17 16:46:08 [32minfo[39m: App start..
+2020-08-17T16:46:10: Listening on port 8080
+2020-08-17T16:46:11: 2020-08-17 16:46:11 [32minfo[39m: App start..
+2020-08-17T16:46:11: Listening on port 8080
+2020-08-17T16:46:12: 2020-08-17 16:46:12 [32minfo[39m: App start..
+2020-08-17T16:46:14: Listening on port 8080
+2020-08-17T16:46:15: 2020-08-17 16:46:15 [32minfo[39m: App start..
+2020-08-17T16:46:15: Listening on port 8080
+2020-08-17T16:46:15: 2020-08-17 16:46:15 [32minfo[39m: App start..
+2020-08-17T16:46:16: Listening on port 8080
+2020-08-17T16:46:17: 2020-08-17 16:46:17 [32minfo[39m: App start..
+2020-08-17T16:46:17: Listening on port 8080
+2020-08-17T16:46:17: 2020-08-17 16:46:17 [32minfo[39m: App start..
+2020-08-17T16:46:20: Listening on port 8080
+2020-08-17T16:46:20: 2020-08-17 16:46:20 [32minfo[39m: App start..
+2020-08-17T16:46:21: Listening on port 8080
+2020-08-17T16:46:21: 2020-08-17 16:46:21 [32minfo[39m: App start..
+2020-08-17T16:46:23: Listening on port 8080
+2020-08-17T16:46:24: 2020-08-17 16:46:24 [32minfo[39m: App start..
+2020-08-17T16:46:24: Listening on port 8080
+2020-08-17T16:46:24: 2020-08-17 16:46:24 [32minfo[39m: App start..
+2020-08-17T16:46:26: Listening on port 8080
+2020-08-17T16:46:27: 2020-08-17 16:46:27 [32minfo[39m: App start..
+2020-08-17T16:46:27: Listening on port 8080
+2020-08-17T16:46:28: 2020-08-17 16:46:28 [32minfo[39m: App start..
+2020-08-17T16:46:30: Listening on port 8080
+2020-08-17T16:46:31: 2020-08-17 16:46:31 [32minfo[39m: App start..
+2020-08-17T16:46:31: Listening on port 8080
+2020-08-17T16:46:31: 2020-08-17 16:46:31 [32minfo[39m: App start..
+2020-08-17T16:46:33: Listening on port 8080
+2020-08-17T16:46:34: 2020-08-17 16:46:34 [32minfo[39m: App start..
+2020-08-17T16:46:34: Listening on port 8080
+2020-08-17T16:46:35: 2020-08-17 16:46:35 [32minfo[39m: App start..
+2020-08-17T16:46:37: Listening on port 8080
+2020-08-17T16:46:38: 2020-08-17 16:46:38 [32minfo[39m: App start..
+2020-08-17T16:46:38: Listening on port 8080
+2020-08-17T16:46:38: 2020-08-17 16:46:38 [32minfo[39m: App start..
+2020-08-17T16:46:40: Listening on port 8080
+2020-08-17T16:46:41: 2020-08-17 16:46:41 [32minfo[39m: App start..
+2020-08-17T16:46:41: Listening on port 8080
+2020-08-17T16:46:41: 2020-08-17 16:46:41 [32minfo[39m: App start..
+2020-08-17T16:46:44: Listening on port 8080
+2020-08-17T16:46:44: 2020-08-17 16:46:44 [32minfo[39m: App start..
+2020-08-17T16:46:44: Listening on port 8080
+2020-08-17T16:46:45: 2020-08-17 16:46:45 [32minfo[39m: App start..
+2020-08-17T16:46:47: Listening on port 8080
+2020-08-17T16:46:48: 2020-08-17 16:46:48 [32minfo[39m: App start..
+2020-08-17T16:46:48: Listening on port 8080
+2020-08-17T16:46:48: 2020-08-17 16:46:48 [32minfo[39m: App start..
+2020-08-17T16:46:50: Listening on port 8080
+2020-08-17T16:46:51: 2020-08-17 16:46:51 [32minfo[39m: App start..
+2020-08-17T16:46:51: Listening on port 8080
+2020-08-17T16:46:52: 2020-08-17 16:46:52 [32minfo[39m: App start..
+2020-08-17T16:46:54: Listening on port 8080
+2020-08-17T16:46:55: 2020-08-17 16:46:55 [32minfo[39m: App start..
+2020-08-17T16:46:55: Listening on port 8080
+2020-08-17T16:46:55: 2020-08-17 16:46:55 [32minfo[39m: App start..
+2020-08-17T16:46:57: Listening on port 8080
+2020-08-17T16:46:58: 2020-08-17 16:46:58 [32minfo[39m: App start..
+2020-08-17T16:46:58: Listening on port 8080
+2020-08-17T16:46:58: 2020-08-17 16:46:58 [32minfo[39m: App start..
+2020-08-17T16:47:01: Listening on port 8080
+2020-08-17T16:47:01: 2020-08-17 16:47:01 [32minfo[39m: App start..
+2020-08-17T16:47:01: Listening on port 8080
+2020-08-17T16:47:02: 2020-08-17 16:47:02 [32minfo[39m: App start..
+2020-08-17T16:47:04: Listening on port 8080
+2020-08-17T16:47:05: 2020-08-17 16:47:05 [32minfo[39m: App start..
+2020-08-17T16:47:05: Listening on port 8080
+2020-08-17T16:47:05: 2020-08-17 16:47:05 [32minfo[39m: App start..
+2020-08-17T16:47:07: Listening on port 8080
+2020-08-17T16:47:08: 2020-08-17 16:47:08 [32minfo[39m: App start..
+2020-08-17T16:47:08: Listening on port 8080
+2020-08-17T16:47:09: 2020-08-17 16:47:09 [32minfo[39m: App start..
+2020-08-17T16:47:11: Listening on port 8080
+2020-08-17T16:47:12: 2020-08-17 16:47:12 [32minfo[39m: App start..
+2020-08-17T16:47:12: Listening on port 8080
+2020-08-17T16:47:12: 2020-08-17 16:47:12 [32minfo[39m: App start..
+2020-08-17T16:47:14: Listening on port 8080
+2020-08-17T16:47:15: 2020-08-17 16:47:15 [32minfo[39m: App start..
+2020-08-17T16:47:15: Listening on port 8080
+2020-08-17T16:47:16: 2020-08-17 16:47:16 [32minfo[39m: App start..
+2020-08-17T16:47:18: Listening on port 8080
+2020-08-17T16:47:19: 2020-08-17 16:47:19 [32minfo[39m: App start..
+2020-08-17T16:47:19: Listening on port 8080
+2020-08-17T16:47:19: 2020-08-17 16:47:19 [32minfo[39m: App start..
+2020-08-17T16:47:21: Listening on port 8080
+2020-08-17T16:47:22: 2020-08-17 16:47:22 [32minfo[39m: App start..
+2020-08-17T16:47:22: Listening on port 8080
+2020-08-17T16:47:22: 2020-08-17 16:47:22 [32minfo[39m: App start..
+2020-08-17T16:47:25: Listening on port 8080
+2020-08-17T16:47:25: 2020-08-17 16:47:25 [32minfo[39m: App start..
+2020-08-17T16:47:25: Listening on port 8080
+2020-08-17T16:47:26: 2020-08-17 16:47:26 [32minfo[39m: App start..
+2020-08-17T16:47:27: Listening on port 8080
+2020-08-17T16:47:28: 2020-08-17 16:47:28 [32minfo[39m: App start..
+2020-08-17T16:47:28: Listening on port 8080
+2020-08-17T16:47:28: 2020-08-17 16:47:28 [32minfo[39m: App start..
+2020-08-17T16:47:31: Listening on port 8080
+2020-08-17T16:47:32: 2020-08-17 16:47:32 [32minfo[39m: App start..
+2020-08-17T16:47:32: Listening on port 8080
+2020-08-17T16:47:32: 2020-08-17 16:47:32 [32minfo[39m: App start..
+2020-08-17T16:47:34: Listening on port 8080
+2020-08-17T16:47:35: 2020-08-17 16:47:35 [32minfo[39m: App start..
+2020-08-17T16:47:35: Listening on port 8080
+2020-08-17T16:47:35: 2020-08-17 16:47:35 [32minfo[39m: App start..
+2020-08-17T16:47:38: Listening on port 8080
+2020-08-17T16:47:39: 2020-08-17 16:47:39 [32minfo[39m: App start..
+2020-08-17T16:47:39: Listening on port 8080
+2020-08-17T16:47:39: 2020-08-17 16:47:39 [32minfo[39m: App start..
+2020-08-17T16:47:41: Listening on port 8080
+2020-08-17T16:47:42: 2020-08-17 16:47:42 [32minfo[39m: App start..
+2020-08-17T16:47:42: Listening on port 8080
+2020-08-17T16:47:43: 2020-08-17 16:47:43 [32minfo[39m: App start..
+2020-08-17T16:47:45: Listening on port 8080
+2020-08-17T16:47:46: 2020-08-17 16:47:46 [32minfo[39m: App start..
+2020-08-17T16:47:46: Listening on port 8080
+2020-08-17T16:47:46: 2020-08-17 16:47:46 [32minfo[39m: App start..
+2020-08-17T16:47:48: Listening on port 8080
+2020-08-17T16:47:49: 2020-08-17 16:47:49 [32minfo[39m: App start..
+2020-08-17T16:47:49: Listening on port 8080
+2020-08-17T16:47:49: 2020-08-17 16:47:49 [32minfo[39m: App start..
+2020-08-17T16:47:51: Listening on port 8080
+2020-08-17T16:47:51: 2020-08-17 16:47:51 [32minfo[39m: App start..
+2020-08-17T16:47:51: Listening on port 8080
+2020-08-17T16:47:52: 2020-08-17 16:47:52 [32minfo[39m: App start..
+2020-08-17T16:47:54: Listening on port 8080
+2020-08-17T16:47:55: 2020-08-17 16:47:55 [32minfo[39m: App start..
+2020-08-17T16:47:55: Listening on port 8080
+2020-08-17T16:47:55: 2020-08-17 16:47:55 [32minfo[39m: App start..
+2020-08-17T16:47:57: Listening on port 8080
+2020-08-17T16:47:58: 2020-08-17 16:47:58 [32minfo[39m: App start..
+2020-08-17T16:47:58: Listening on port 8080
+2020-08-17T16:47:59: 2020-08-17 16:47:59 [32minfo[39m: App start..
+2020-08-17T16:48:01: Listening on port 8080
+2020-08-17T16:48:02: 2020-08-17 16:48:02 [32minfo[39m: App start..
+2020-08-17T16:48:02: Listening on port 8080
+2020-08-17T16:48:02: 2020-08-17 16:48:02 [32minfo[39m: App start..
+2020-08-17T16:48:03: Listening on port 8080
+2020-08-17T16:48:04: 2020-08-17 16:48:04 [32minfo[39m: App start..
+2020-08-17T16:48:04: Listening on port 8080
+2020-08-17T16:48:04: 2020-08-17 16:48:04 [32minfo[39m: App start..
+2020-08-17T16:48:06: Listening on port 8080
+2020-08-17T16:48:07: 2020-08-17 16:48:07 [32minfo[39m: App start..
+2020-08-17T16:48:07: Listening on port 8080
+2020-08-17T16:48:07: 2020-08-17 16:48:07 [32minfo[39m: App start..
+2020-08-17T16:48:09: Listening on port 8080
+2020-08-17T16:48:10: 2020-08-17 16:48:10 [32minfo[39m: App start..
+2020-08-17T16:48:10: Listening on port 8080
+2020-08-17T16:48:10: 2020-08-17 16:48:10 [32minfo[39m: App start..
+2020-08-17T16:48:14: Listening on port 8080
+2020-08-17T16:48:15: 2020-08-17 16:48:15 [32minfo[39m: App start..
+2020-08-17T16:48:15: Listening on port 8080
+2020-08-17T16:48:15: 2020-08-17 16:48:15 [32minfo[39m: App start..
+2020-08-17T16:48:18: Listening on port 8080
+2020-08-17T16:48:18: 2020-08-17 16:48:18 [32minfo[39m: App start..
+2020-08-17T16:48:18: Listening on port 8080
+2020-08-17T16:48:19: 2020-08-17 16:48:19 [32minfo[39m: App start..
+2020-08-17T16:48:21: Listening on port 8080
+2020-08-17T16:48:22: 2020-08-17 16:48:22 [32minfo[39m: App start..
+2020-08-17T16:48:22: Listening on port 8080
+2020-08-17T16:48:22: 2020-08-17 16:48:22 [32minfo[39m: App start..
+2020-08-17T16:48:25: Listening on port 8080
+2020-08-17T16:48:25: 2020-08-17 16:48:25 [32minfo[39m: App start..
+2020-08-17T16:48:25: Listening on port 8080
+2020-08-17T16:48:26: 2020-08-17 16:48:26 [32minfo[39m: App start..
+2020-08-17T16:48:28: Listening on port 8080
+2020-08-17T16:48:29: 2020-08-17 16:48:29 [32minfo[39m: App start..
+2020-08-17T16:48:30: 2020-08-17 16:48:30 [32minfo[39m: App start..
+2020-08-17T16:48:33: 2020-08-17 16:48:33 [32minfo[39m: App start..
+2020-08-17T16:48:33: 2020-08-17 16:48:33 [32minfo[39m: App start..
+2020-08-17T16:48:36: 2020-08-17 16:48:36 [32minfo[39m: App start..
+2020-08-17T16:48:36: 2020-08-17 16:48:36 [32minfo[39m: App start..
+2020-08-17T16:48:39: 2020-08-17 16:48:39 [32minfo[39m: App start..
+2020-08-17T16:48:40: 2020-08-17 16:48:40 [32minfo[39m: App start..
+2020-08-17T16:48:43: 2020-08-17 16:48:43 [32minfo[39m: App start..
+2020-08-17T16:48:43: 2020-08-17 16:48:43 [32minfo[39m: App start..
+2020-08-17T16:48:44: 2020-08-17 16:48:44 [32minfo[39m: App start..
+2020-08-17T16:48:47: 2020-08-17 16:48:47 [32minfo[39m: App start..
+2020-08-17T16:48:48: 2020-08-17 16:48:48 [32minfo[39m: App start..
+2020-08-17T16:48:48: 2020-08-17 16:48:48 [32minfo[39m: App start..
+2020-08-17T16:48:51: 2020-08-17 16:48:51 [32minfo[39m: App start..
+2020-08-17T16:48:51: 2020-08-17 16:48:51 [32minfo[39m: App start..
+2020-08-17T16:48:54: 2020-08-17 16:48:54 [32minfo[39m: App start..
+2020-08-17T16:48:55: 2020-08-17 16:48:55 [32minfo[39m: App start..
+2020-08-17T16:48:57: 2020-08-17 16:48:57 [32minfo[39m: App start..
+2020-08-17T16:48:58: 2020-08-17 16:48:58 [32minfo[39m: App start..
+2020-08-17T16:49:01: 2020-08-17 16:49:01 [32minfo[39m: App start..
+2020-08-17T16:49:01: 2020-08-17 16:49:01 [32minfo[39m: App start..
+2020-08-17T16:49:04: 2020-08-17 16:49:04 [32minfo[39m: App start..
+2020-08-17T16:49:04: 2020-08-17 16:49:04 [32minfo[39m: App start..
+2020-08-17T16:49:07: 2020-08-17 16:49:07 [32minfo[39m: App start..
+2020-08-17T16:49:07: 2020-08-17 16:49:07 [32minfo[39m: App start..
+2020-08-17T16:49:10: 2020-08-17 16:49:10 [32minfo[39m: App start..
+2020-08-17T16:49:10: 2020-08-17 16:49:10 [32minfo[39m: App start..

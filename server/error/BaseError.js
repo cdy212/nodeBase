@@ -1,20 +1,21 @@
 var HttpStatus = require('http-status-codes');
 
 class BaseError extends Error {
-    constructor(name, httpCode, description, isOperational) {
+    constructor(name, httpCode, isOperational, description) {
         super(description);
         Object.setPrototypeOf(this, new.target.prototype);
  
         this.name = name;
         this.httpCode = httpCode;
         this.isOperational = isOperational;
- 
+        this.description = description;
+
         Error.captureStackTrace(this);
     }
 }
 
 class APIError extends BaseError {
-    constructor(name, httpCode = HttpStatusCode.INTERNAL_SERVER, isOperational = true, description = 'internal server error') {
+    constructor(name, httpCode = HttpStatusCode.INTERNAL_SERVER, isOperational = true, description = 'API Custom error') {
         super(name, httpCode, isOperational, description);
     }
 }
@@ -58,11 +59,18 @@ class HTTP400Error extends BaseError {
     }
 }
 
+class HTTP404Error extends BaseError {
+    constructor(description = 'NOT FOUND') {
+        super('NOT FOUND', HttpStatusCode.NOT_FOUND, true, description);
+    }
+}
+
    
 module.exports = {
     HTTP400Error: HTTP400Error,
     APIError: APIError,
     BaseError: BaseError,
+    HTTP404Error: HTTP400Error,
     HttpStatusCode: HttpStatusCode
 };
   

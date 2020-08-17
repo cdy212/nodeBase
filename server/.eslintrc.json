@@ -1,19 +1,30 @@
-module.exports = {
-    extends: 'standard',
-    rules: {
-        indent: [
-            'error',
-            4
+{
+    "env": {
+        "browser": true,
+        "es6": true,
+        "commonjs": true,
+        "node":true
+    },
+    "extends": [ "airbnb", "airbnb/hooks"] ,
+    "rules": {
+        "indent": [
+            "error",
+            "tab"
         ],
-        semi: [
-            'error',
-            'always'
+        "linebreak-style": [
+            "error",
+            "unix"
         ],
-        'no-trailing-spaces': 0,
-        'keyword-spacing': 0,
-        'no-unused-vars': 1,
-        'no-multiple-empty-lines': 0,
-        'space-before-function-paren': 0,
-        'eol-last': 0
+        "quotes": [
+            "error",
+            "single"
+        ],
+        "semi": [
+            "error",
+            "always"
+        ]
+    },
+    "parserOptions": {
+        "ecmaVersion": 11
     }
-};
+}

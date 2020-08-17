@@ -3,13 +3,17 @@ const { logger } = require('../utils/logConfig');
 
 exports.handleError = async(err) => {
     await logger.error(
-        'Error message from the centralized error-handling component',
+        '-----------------------------------ERROR----------------------------------',
         err
     );
+
     // eslint-disable-next-line no-undef
     await sendMailToAdminIfCritical();
     // eslint-disable-next-line no-undef
     await sendEventsToSentry();
+    
+
+    
 };
 
 exports.isTrustedError = (error) => {
