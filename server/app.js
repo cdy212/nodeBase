@@ -25,6 +25,31 @@ const fetch = require('node-fetch');
 
 const token = jwt.sign(userInfo, secretKey, options);
 
+const session = require('express-session');
+var redis = require('redis');
+//const connectRedis = require('connect-redis');
+var redisStore = require('connect-redis')(session);
+var client = redis.createClient();
+
+const sessionSecret = 'SeCrEtKeYfOrHaShInG'
+const sess = {
+	resave: false,
+	saveUninitialized: false,
+	secret: sessionSecret,
+	name: 'sessionId',
+	cookie: {
+		httpOnly: true,
+		secure: false,
+	},
+	store: new redisStore({
+            host: "127.0.0.1",
+            port: 6379,
+            client: client,
+            prefix : "session:",
+            db : 0
+        }),
+};
+
 
 class App {
 	routers() {
@@ -90,8 +115,8 @@ class App {
 			
 		});
 
-		let isDisableKeepAlive = false
-		app.use(function(req, res, next) {
+		let isDisableKeepAlive = false;
+		this.app.use(function(req, res, next) {
 			if (isDisableKeepAlive) {
 				res.set('Connection', 'close');
 			}
@@ -100,10 +125,11 @@ class App {
 
 
 		process.on('SIGINT', function () {
-			isDisableKeepAlive = true
+			isDisableKeepAlive = true;
 			app.close(function () {
-			console.log('server closed')
-			process.exit(0)
+				console.log('server closed');
+				process.exit(0);
+			});
 		})
 
 		// https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/
@@ -125,6 +151,8 @@ class App {
 			
 		});
 
+
+
 	}
 
 
@@ -145,6 +173,8 @@ class App {
 				}
 			} 
 		})); // NOTE: http request 로그 남기기
+
+		this.app.use(session(sess));
 
 		this.app.use(express.json());
 		this.app.use(express.urlencoded({extended: false}));

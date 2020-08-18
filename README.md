@@ -1,3 +1,12 @@
+#why? node	vs	thread program									
+IO 작업에 대하여 비동기 처리를 기반으로 하며 단일 스레드 기반 이벤트 루프를 통하여 처리 한다.											
+성능이 탁월하다는 의미는 대부분의 리소스 소모에 비중이 IO 작업에서 발생하여 비동기로 처리가 완료되기 응답을 보내며											
+muily thread 방식의 io 처리에서 발생하는 context switch 작업의 오버해드가 발생 하지 않아 성능이 탁월하다											
+허나 단일 스레드 방식이라 잘못된 코드로 개발 시 서버 자체가 다운되고 추적하기 어려울 수 있으며 무거운 비즈니스를 사용하는 어플리케이션에는 적합하지 않다.											
+비동기 io 작업 중 오류가 발생하면 계속된 호출로 인하여 메모리 누수가 발생하여 문제가 된다.											
+callback 함수로 처리되는 부분에 대한 동기 처리 시 코드의 복잡성을 띌수 있으나 지금은 await 함수 재공으로 해당 문제는 해결된 상태이다.											
+
+
 # pm2 
 
 1. 무중단 - https://m.blog.naver.com/sssang97/221982629467
@@ -59,7 +68,8 @@ framework - express vs koa vs fastify vs hapi - check most popular.
     
 
 4. authentification
-
+    - session saved on redis
+    - session change to jwt
 
 
 
