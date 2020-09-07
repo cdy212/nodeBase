@@ -50,6 +50,9 @@ const sess = {
         }),
 };
 
+ 
+
+ 
 
 class App {
 	routers() {
@@ -124,13 +127,13 @@ class App {
 		})
 
 
-		process.on('SIGINT', function () {
-			isDisableKeepAlive = true;
-			app.close(function () {
-				console.log('server closed');
-				process.exit(0);
-			});
-		})
+		// process.on('SIGINT', function () {
+		// 	isDisableKeepAlive = true;
+		// 	this.app.close(function () {
+		// 		console.log('server closed');
+		// 		process.exit(0);
+		// 	});
+		// })
 
 		// https://goldbergyoni.com/checklist-best-practices-of-node-js-error-handling/
 
@@ -141,11 +144,11 @@ class App {
 		});
 			
 
-		process.on('uncaughtException', async (error) => {
+		process.on('uncaughtException', async (err) => {
 			logger.info('uncaughtException');
 
-			await handleError(error);
-			if(!error.isOperational){
+			await handleError(err);
+			if(!err.isOperational){
 				process.exit(err ? 1 : 0);
 			}
 			
